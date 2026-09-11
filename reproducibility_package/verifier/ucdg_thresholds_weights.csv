@@ -1,0 +1,16 @@
+parameter,value,meaning
+tau_role,0.62,Role gate threshold
+tau_node,0.60,Node-identity/domain compatibility threshold
+tau_stage,0.58,Stage-scope threshold
+tau_evid,0.64,Evidence-support threshold
+tau_accept,0.80,High-confidence routing threshold
+tau_reject,0.45,Low-confidence rejection threshold
+w_lex,0.10,Lexical node-name feature
+w_syn,0.12,Synonym-table feature
+w_sig,0.14,Formula/operator signature feature
+w_sem,0.13,Frozen-vocabulary scope-note cosine similarity
+w_role,0.11,Role-gate probability
+w_ctx,0.10,Context-gate probability
+w_stage,0.11,Stage-gate probability
+w_evid,0.17,Evidence-gate probability
+w_entropy,0.08,Candidate-ambiguity penalty

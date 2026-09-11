@@ -1,0 +1,5173 @@
+{
+  "metadata": {
+    "schema_name": "CAV-HKG node-link hierarchy",
+    "version": "HKG-HZ-v1.0",
+    "copyright_policy": "Source locators and scope notes only; no copyrighted textbook passages are redistributed.",
+    "knowledge_point_count": 216,
+    "domain_count": 9,
+    "subfield_count": 35,
+    "edge_semantics": "Hierarchical membership only; prerequisite order is represented by stage labels and difficulty scores.",
+    "generated_at": "2026-06-04T16:23:08+08:00"
+  },
+  "directed": true,
+  "nodes": [
+    {
+      "id": "DOMAIN-NODE",
+      "label": "代数",
+      "type": "domain"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "比和比例",
+      "type": "subfield",
+      "domain": "代数"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "整式",
+      "type": "subfield",
+      "domain": "代数"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "方程",
+      "type": "subfield",
+      "domain": "代数"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "方程与不等式",
+      "type": "subfield",
+      "domain": "代数"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "不等式",
+      "type": "subfield",
+      "domain": "代数"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "分式",
+      "type": "subfield",
+      "domain": "代数"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "根式",
+      "type": "subfield",
+      "domain": "代数"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "函数",
+      "type": "subfield",
+      "domain": "代数"
+    },
+    {
+      "id": "DOMAIN-NODE",
+      "label": "几何",
+      "type": "domain"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "基本图形的认识",
+      "type": "subfield",
+      "domain": "几何"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "角",
+      "type": "subfield",
+      "domain": "几何"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "图形的位置关系",
+      "type": "subfield",
+      "domain": "几何"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "周长和面积",
+      "type": "subfield",
+      "domain": "几何"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "立体图形的测量",
+      "type": "subfield",
+      "domain": "几何"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "数轴与坐标系",
+      "type": "subfield",
+      "domain": "几何"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "三角形",
+      "type": "subfield",
+      "domain": "几何"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "多边形",
+      "type": "subfield",
+      "domain": "几何"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "圆",
+      "type": "subfield",
+      "domain": "几何"
+    },
+    {
+      "id": "DOMAIN-NODE",
+      "label": "概率与统计",
+      "type": "domain"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "统计",
+      "type": "subfield",
+      "domain": "概率与统计"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "概率",
+      "type": "subfield",
+      "domain": "概率与统计"
+    },
+    {
+      "id": "DOMAIN-NODE",
+      "label": "算数",
+      "type": "domain"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "基础运算",
+      "type": "subfield",
+      "domain": "算数"
+    },
+    {
+      "id": "DOMAIN-NODE",
+      "label": "量与计量",
+      "type": "domain"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "质量单位",
+      "type": "subfield",
+      "domain": "量与计量"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "分数加减法",
+      "type": "subfield",
+      "domain": "算数"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "整数读数",
+      "type": "subfield",
+      "domain": "算数"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "整数认识",
+      "type": "subfield",
+      "domain": "算数"
+    },
+    {
+      "id": "DOMAIN-NODE",
+      "label": "数论",
+      "type": "domain"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "合数与质数",
+      "type": "subfield",
+      "domain": "数论"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "因数与倍数",
+      "type": "subfield",
+      "domain": "数论"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "分数",
+      "type": "subfield",
+      "domain": "数论"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "互质和最大公因数",
+      "type": "subfield",
+      "domain": "数论"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "百分数",
+      "type": "subfield",
+      "domain": "数论"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "负数",
+      "type": "subfield",
+      "domain": "数论"
+    },
+    {
+      "id": "DOMAIN-NODE",
+      "label": "数与代数",
+      "type": "domain"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "负数",
+      "type": "subfield",
+      "domain": "数与代数"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "有理数、相反数、绝对值",
+      "type": "subfield",
+      "domain": "数论"
+    },
+    {
+      "id": "DOMAIN-NODE",
+      "label": "数理逻辑",
+      "type": "domain"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "找规律",
+      "type": "subfield",
+      "domain": "数理逻辑"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "互逆命题",
+      "type": "subfield",
+      "domain": "数理逻辑"
+    },
+    {
+      "id": "DOMAIN-NODE",
+      "label": "离散数学",
+      "type": "domain"
+    },
+    {
+      "id": "SUBFIELD-NODE-NODE",
+      "label": "逻辑、量词",
+      "type": "subfield",
+      "domain": "离散数学"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-03",
+      "label": "比的意义",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "比和比例",
+      "knowledge_point": "比的意义",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:比的意义",
+      "synonyms": [
+        "比的含义",
+        "认识比"
+      ],
+      "scope_note": "聚焦“比”作为两个量之间关系的基础含义，用于后续学习比的读写、各部分名称、求比值和比例等内容。当前来源仅能稳定支持该概念标题本身，不足以细化到具体表示法或运算规则。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-05",
+      "label": "比的意义（用两个量相除表示两个量之间的倍比关系）",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "比和比例",
+      "knowledge_point": "比的意义（用两个量相除表示两个量之间的倍比关系）",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:比的意义",
+      "synonyms": [
+        "比的概念",
+        "比的含义",
+        "比表示两个量的关系"
+      ],
+      "scope_note": "聚焦“比”作为两个相关量之间关系的表示，通常包括把两个量用除法联系起来、理解比的前项和后项、以及比与分数除法关系的入门性认识。是否包含比的读写法、各部分名称、比值、化简比等内容，需与相邻节点进一步切分核对。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-06",
+      "label": "比的基本性质",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "比和比例",
+      "knowledge_point": "比的基本性质",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:比的基本性质",
+      "synonyms": [
+        "比的性质"
+      ],
+      "scope_note": "聚焦于比的基本性质及其用于化简比、保持比值不变的等值变形。当前来源仅能确认该知识点名称、所属路径与记录年级，具体教学边界仍需人工核验。"
+    },
+    {
+      "id": "HKG-NODE-NODE-0",
+      "label": "比的基本性质：比的前项和后项同时乘或除以同一个非0数，比值不变",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "比和比例",
+      "knowledge_point": "比的基本性质：比的前项和后项同时乘或除以同一个非0数，比值不变",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:比的基本性质",
+      "synonyms": [
+        "比的性质",
+        "比的基本性质"
+      ],
+      "scope_note": "聚焦于比的保持不变性质及其作为化简比、求比值相关操作依据的作用；不等同于比例的基本性质，也不覆盖按比分配等后续应用规则。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-07",
+      "label": "根据给定的比，把一个总量分成若干份并求各部分量的应用问题",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "比和比例",
+      "knowledge_point": "根据给定的比，把一个总量分成若干份并求各部分量的应用问题",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:按比例分配问题",
+      "synonyms": [
+        "按比分配问题",
+        "比例分配问题",
+        "按比分配问题"
+      ],
+      "scope_note": "聚焦六年级上册比的应用：已知总量与各部分的比，先求总份数，再求每份对应的量，进而求出各部分量。可包含整数、小数、分数情境下的按比分配。当前证据仅支持作为“按比例分配问题”这一应用题类型节点，不足以细分为更具体题型。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-08",
+      "label": "按比例分配问题",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "比和比例",
+      "knowledge_point": "按比例分配问题",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:按比例分配问题",
+      "synonyms": [
+        "按比分配问题",
+        "比例分配问题",
+        "按比分配应用题"
+      ],
+      "scope_note": "指已知总量及各部分对应的比，求各部分数量的应用问题。通常包含先求总份数、再求每份量、最后求各部分量的解题结构。该点应与“比的意义”“比的基本性质”“比与分数、除法的联系”等前置知识区分；不等同于一般‘平均分配’或任意分配类应用题。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-13",
+      "label": "判断两个相关量是否成正比例",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "比和比例",
+      "knowledge_point": "判断两个相关量是否成正比例",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:正比例与反比例",
+      "synonyms": [
+        "正比例关系",
+        "成正比例",
+        "两种量成正比例"
+      ],
+      "scope_note": "聚焦正比例关系的识别与基本表征，如两种量对应、比值一定、随一个量变化另一个量按相同方向成倍变化。来源仅给出合并标题，未提供更细教材证据，节点表述采用审计性拆分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-14",
+      "label": "判断两个相关量是否成反比例",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "比和比例",
+      "knowledge_point": "判断两个相关量是否成反比例",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:正比例与反比例",
+      "synonyms": [
+        "反比例关系",
+        "成反比例",
+        "两种量成反比例"
+      ],
+      "scope_note": "聚焦反比例关系的识别与基本表征，如两种量对应、乘积一定、一个量增大时另一个量减小。来源仅给出合并标题，未提供更细教材证据，节点表述采用审计性拆分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-16",
+      "label": "用比例尺表示图上距离与实际距离的对应关系，并进行简单求值",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "比和比例",
+      "knowledge_point": "用比例尺表示图上距离与实际距离的对应关系，并进行简单求值",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:比例的应用（比例尺、图形的放大缩小等）",
+      "synonyms": [
+        "比例尺应用",
+        "根据比例尺求图上距离或实际距离",
+        "比例尺计算"
+      ],
+      "scope_note": "从源标题中的“比例尺”细化得到。范围宜限定为依据比例关系理解和使用比例尺，进行图上距离、实际距离、比例尺三者之间的简单计算；不应自动扩展到地图综合、单位换算的系统专题或相似形证明。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-21",
+      "label": "用比例尺表示图上距离与实际距离的对应关系，并进行简单换算",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "比和比例",
+      "knowledge_point": "用比例尺表示图上距离与实际距离的对应关系，并进行简单换算",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:比例的应用（比例尺、图形的放大缩小等）",
+      "synonyms": [
+        "比例尺应用",
+        "图上距离与实际距离的比例",
+        "按比例尺求实际距离或图上距离"
+      ],
+      "scope_note": "从现有节点标题中的“比例尺”细化得到。范围宜限定为依据比例关系理解比例尺，并在图上距离与实际距离之间进行求值或换算；不应扩展到地图阅读的非数学常识内容。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-27",
+      "label": "识别单项式并理解单项式由数与字母的积表示",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "整式",
+      "knowledge_point": "识别单项式并理解单项式由数与字母的积表示",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:单项式的概念、系数、次数",
+      "synonyms": [
+        "单项式的概念",
+        "单项式的定义",
+        "认识单项式"
+      ],
+      "scope_note": "对应“单项式的概念”部分。范围宜限定为初中整式入门中对单项式形式的识别与基本理解，不扩展到多项式运算或严格分类细则。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-28",
+      "label": "单项式的概念",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "整式",
+      "knowledge_point": "单项式的概念",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:单项式的概念、系数、次数",
+      "synonyms": [
+        "单项式定义",
+        "什么是单项式"
+      ],
+      "scope_note": "聚焦于识别单项式这一类代数式，区分数字与字母乘积形式的单项式与非单项式；不等同于后续对多项式、整式整体分类的完整体系。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-31",
+      "label": "多项式的概念",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "整式",
+      "knowledge_point": "多项式的概念",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:多项式的概念、项、次数",
+      "synonyms": [
+        "多项式概念",
+        "什么是多项式",
+        "多项式定义"
+      ],
+      "scope_note": "聚焦于识别多项式作为由若干单项式的和组成的整式，能区分多项式与单项式，并据形式判断一个代数式是否属于多项式。该节点不自动涵盖多项式的项数分类、升降幂排列或多项式运算。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-33",
+      "label": "多项式的次数",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "整式",
+      "knowledge_point": "多项式的次数",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:多项式的概念、项、次数",
+      "synonyms": [
+        "多项式次数",
+        "求多项式的次数"
+      ],
+      "scope_note": "指确定一个多项式次数时，先识别各项次数，再取其中最高次数。应与“单项式的次数”建立前置关系，但不与“幂的指数”混同。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-38",
+      "label": "整式的概念",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "整式",
+      "knowledge_point": "整式的概念",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:整式的概念、书写",
+      "synonyms": [
+        "整式概念",
+        "整式的定义"
+      ],
+      "scope_note": "围绕“整式”作为代数式类别的识别与基本理解。当前证据仅支持概念层面的节点，不足以细化到单项式、多项式、次数等下位知识点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-45",
+      "label": "合并同类项化简整式",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "整式",
+      "knowledge_point": "合并同类项化简整式",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:同类项与合并同类项、去括号",
+      "synonyms": [
+        "合并同类项",
+        "化简整式中的同类项"
+      ],
+      "scope_note": "指在整式化简中把同类项的系数相加减，保持字母部分不变；属于整式加减化简的基础操作。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-47",
+      "label": "合并同类项",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "整式",
+      "knowledge_point": "合并同类项",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:同类项与合并同类项、去括号",
+      "synonyms": [
+        "同类项合并",
+        "整式中的合并同类项"
+      ],
+      "scope_note": "指在整式化简中把同类项的系数相加减并保持字母部分不变。适合作为整式化简的基础运算节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-49",
+      "label": "二元一次方程组的概念与解的意义",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "方程",
+      "knowledge_point": "二元一次方程组的概念与解的意义",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:二元一次方程组及其求解",
+      "synonyms": [
+        "二元一次方程组",
+        "二元一次方程组的解"
+      ],
+      "scope_note": "对应种子节点标题中的“二元一次方程组”部分，宜限定为识别二元一次方程组、理解其解满足两个方程的含义。原始标题将概念与求解过程合并，建议审查是否拆分为概念节点与程序性节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-52",
+      "label": "二元一次方程组的求解",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "方程",
+      "knowledge_point": "二元一次方程组的求解",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:二元一次方程组及其求解",
+      "synonyms": [
+        "解二元一次方程组",
+        "二元一次方程组及其求解"
+      ],
+      "scope_note": "对应七年级下册对二元一次方程组进行求解并用于基本问题解决的核心内容。当前证据只能稳妥支持“求解”这一合并层级，不足以仅凭源信息继续审定为代入法、加减法等独立节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-58",
+      "label": "一元一次不等式组的求解与公共解集",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "方程与不等式",
+      "knowledge_point": "一元一次不等式组的求解与公共解集",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:不等式与一元一次不等式组",
+      "synonyms": [
+        "一元一次不等式组",
+        "解一元一次不等式组",
+        "求不等式组的解集"
+      ],
+      "scope_note": "该节点与源标题直接对应，建议范围包括联立两个或多个一元一次不等式，确定其公共解集；可包括借助数轴或区间关系判断解集的交。不要泛化到高年级的多元不等式组。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-65",
+      "label": "求解一元一次不等式组，并确定其公共解集",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "不等式",
+      "knowledge_point": "求解一元一次不等式组，并确定其公共解集",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:不等式与一元一次不等式组",
+      "synonyms": [
+        "解一元一次不等式组",
+        "一元一次不等式组的解集",
+        "不等式组的公共解"
+      ],
+      "scope_note": "该节点直接由来源标题中的“一元一次不等式组”支持。建议范围限定为由若干一元一次不等式组成的不等式组的求解、在数轴上表示各不等式解集并取公共部分，不扩展到高次、不含参数或应用建模的复杂情形。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-76",
+      "label": "因式分解",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "整式",
+      "knowledge_point": "因式分解",
+      "stage_label": "Grade 8 semester 1",
+      "normalized_difficulty": 60.87,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:整式的乘除与分解因式",
+      "synonyms": [
+        "分解因式",
+        "多项式因式分解"
+      ],
+      "scope_note": "依据源标题中的“分解因式”规范化为常见知识点名称“因式分解”。宜理解为把多项式化为几个整式的积的形式，但当前来源未指明是否包括提公因式法、公式法等具体方法。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-77",
+      "label": "整式的乘除与因式分解",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "整式",
+      "knowledge_point": "整式的乘除与因式分解",
+      "stage_label": "Grade 8 semester 1",
+      "normalized_difficulty": 60.87,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:整式的乘除与分解因式",
+      "synonyms": [
+        "整式的乘除与分解因式"
+      ],
+      "scope_note": "保留来源中的合并型单元标题作为宽口径节点，适合表示单元或章节级主题，不宜直接作为最细粒度可教学知识点。建议与“整式乘法”“整式除法”“因式分解”形成父子关系。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-85",
+      "label": "分式的约分",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "分式",
+      "knowledge_point": "分式的约分",
+      "stage_label": "Grade 8 semester 1",
+      "normalized_difficulty": 60.87,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:约分、通分、最简分式",
+      "synonyms": [
+        "分式约分",
+        "约分"
+      ],
+      "scope_note": "指利用分式的基本性质，约去分子与分母的公因式，把分式化为较简形式；应与分数的约分区分为代数式情境下的系统学习。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-86",
+      "label": "分式的通分",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "分式",
+      "knowledge_point": "分式的通分",
+      "stage_label": "Grade 8 semester 1",
+      "normalized_difficulty": 60.87,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:约分、通分、最简分式",
+      "synonyms": [
+        "分式通分",
+        "通分"
+      ],
+      "scope_note": "指为分式选取适当的公分母并化为同分母分式，通常服务于分式加减及比较；应限定在分式而非算术分数范围内。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-90",
+      "label": "分式方程的求解",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "分式",
+      "knowledge_point": "分式方程的求解",
+      "stage_label": "Grade 8 semester 1",
+      "normalized_difficulty": 60.87,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:分式方程及其求解",
+      "synonyms": [
+        "解分式方程",
+        "分式方程及其求解"
+      ],
+      "scope_note": "可从来源标题直接确认存在“求解分式方程”这一知识点。适合作为上位节点，覆盖将分式方程转化后求解的基本过程。由于当前证据仅为运行图标题，不宜在节点名中固化具体步骤，如去分母、最简公分母、验根等；这些细化内容建议待教材或课程标准证据补充后再拆分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-93",
+      "label": "分式方程及其求解",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "分式",
+      "knowledge_point": "分式方程及其求解",
+      "stage_label": "Grade 8 semester 1",
+      "normalized_difficulty": 60.87,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:分式方程及其求解",
+      "synonyms": [
+        "分式方程的求解",
+        "解分式方程"
+      ],
+      "scope_note": "围绕“分式方程”这一类方程的识别与求解方法。按常见教材组织，通常包含通过去分母将分式方程转化为整式方程并检验增根，但本次来源仅给出节点标题，未提供更细的教材范围，因此暂不拆分出更细步骤性节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-98",
+      "label": "二次根式",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "根式",
+      "knowledge_point": "二次根式",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:二次根式及其运算",
+      "synonyms": [
+        "二次根式概念",
+        "二次根式基础"
+      ],
+      "scope_note": "由现有运行时图节点“二次根式及其运算”拆分出的概念性节点，表示对二次根式这一对象本身的认识。当前来源仅能支持该单元名称级别的审计，暂不细化到定义、性质或有意义条件等更小知识点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-100",
+      "label": "二次根式及其运算",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "根式",
+      "knowledge_point": "二次根式及其运算",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:二次根式及其运算",
+      "synonyms": [
+        "二次根式单元",
+        "二次根式与运算"
+      ],
+      "scope_note": "保留原运行时图中的复合节点名称，适合作为单元级或聚合级节点；不建议直接作为最细粒度可教学知识点使用，应优先拆分为“二次根式”与“二次根式的运算”等子节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-102",
+      "label": "一次函数图像的作法与识别",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "函数",
+      "knowledge_point": "一次函数图像的作法与识别",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:一次函数及其图像",
+      "synonyms": [
+        "一次函数的图像",
+        "一次函数图像",
+        "y=kx+b的图像"
+      ],
+      "scope_note": "依据源标题中的“图像”提出，范围限于一次函数图像与解析式之间的基本对应、描点或由已知条件确定直线图像的初步方法；不扩展到更高阶段的解析几何直线理论。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-104",
+      "label": "一次函数的概念与解析式形式",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "函数",
+      "knowledge_point": "一次函数的概念与解析式形式",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:一次函数及其图像",
+      "synonyms": [
+        "一次函数",
+        "线性函数（初中语境下常指一次函数）"
+      ],
+      "scope_note": "依据源标题“ 一次函数及其图像 ”，可审计到本单元聚焦一次函数本身及图像。建议细化为对一次函数的识别、解析式形式及其作为后续作图与性质学习的前置节点。由于当前仅有运行图谱标题，未见更细目录，解析式细节需人工复核。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-108",
+      "label": "正比例函数",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "函数",
+      "knowledge_point": "正比例函数",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:正比例函数",
+      "synonyms": [
+        "成正比例的函数",
+        "y=kx型函数"
+      ],
+      "scope_note": "以“正比例函数”为单元级知识点进行登记。通常指形如 y=kx（k≠0）的函数模型及其作为函数对象的识别；是否包含解析式、图象、性质、应用题建模等完整范围，当前来源未提供细目，需人工复核。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-109",
+      "label": "正比例函数的概念",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "函数",
+      "knowledge_point": "正比例函数的概念",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:正比例函数",
+      "synonyms": [
+        "正比例函数",
+        "y=kx型函数"
+      ],
+      "scope_note": "Audited as the core concept node for 正比例函数 at the stage where students systematically study this function type. Scope should center on recognizing and using the function form y=kx（k≠0） as a distinct function category; graph properties and applications may require separate downstream nodes if supported by stronger sources."
+    },
+    {
+      "id": "HKG-NODE-NODE-Y-KX-B-B-0-Y-KX",
+      "label": "正比例函数是一次函数的特殊情形；一次函数 y=kx+b 在 b=0 时成为正比例函数 y=kx",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "函数",
+      "knowledge_point": "正比例函数是一次函数的特殊情形；一次函数 y=kx+b 在 b=0 时成为正比例函数 y=kx",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:一次函数与正比例函数的关系",
+      "synonyms": [
+        "正比例函数是特殊的一次函数",
+        "一次函数与正比例函数的包含关系",
+        "一次函数和正比例函数的关系"
+      ],
+      "scope_note": "聚焦两类函数的包含关系与形式辨析：正比例函数可视为一次函数中截距为0的特例。适用于根据解析式判断函数类型、比较图象特征与衔接后续性质学习。若本地图谱将“关系”作为独立节点，应避免与“一次函数的概念”“正比例函数的概念”完全重叠。"
+    },
+    {
+      "id": "HKG-NODE-NODE-Y-KX-B-B-0",
+      "label": "正比例函数是一类特殊的一次函数；一次函数 y=kx+b 在 b=0 时成为正比例函数",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "函数",
+      "knowledge_point": "正比例函数是一类特殊的一次函数；一次函数 y=kx+b 在 b=0 时成为正比例函数",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:一次函数与正比例函数的关系",
+      "synonyms": [
+        "一次函数与正比例函数的关系",
+        "正比例函数与一次函数的关系",
+        "正比例函数是特殊的一次函数",
+        "一次函数和正比例函数的联系"
+      ],
+      "scope_note": "聚焦两类函数之间的包含关系与一般形式的特例判定，不扩展到图象性质、增减性或实际应用建模。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-110",
+      "label": "一元二次方程的求解",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "方程",
+      "knowledge_point": "一元二次方程的求解",
+      "stage_label": "Grade 9 semester 1",
+      "normalized_difficulty": 69.57,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:一元二次方程求解",
+      "synonyms": [
+        "一元二次方程求解",
+        "解一元二次方程",
+        "求一元二次方程的解"
+      ],
+      "scope_note": "聚焦一元二次方程的解法与求根活动。当前来源仅能稳定支持“求解”这一总节点，是否细分为配方法、公式法、因式分解法等具体方法，需结合教材或课程标准进一步审定。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-111",
+      "label": "一元二次方程求解",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "方程",
+      "knowledge_point": "一元二次方程求解",
+      "stage_label": "Grade 9 semester 1",
+      "normalized_difficulty": 69.57,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:一元二次方程求解",
+      "synonyms": [
+        "解一元二次方程",
+        "一元二次方程的求解"
+      ],
+      "scope_note": "基于现有运行时图节点，范围可暂定为对一元二次方程进行求根与解的表达的综合性求解主题。当前证据不足以细分为具体方法节点，需人工核查是否应拆分为因式分解法、配方法、公式法等更细粒度知识点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-Y-AX-2-BX-C-A-0",
+      "label": "一元二次函数的概念与解析式y=ax^2+bx+c（a≠0）",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "函数",
+      "knowledge_point": "一元二次函数的概念与解析式y=ax^2+bx+c（a≠0）",
+      "stage_label": "Grade 9 semester 1",
+      "normalized_difficulty": 69.57,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:一元二次函数及其图像",
+      "synonyms": [
+        "二次函数",
+        "一元二次函数",
+        "形如y=ax^2+bx+c（a≠0）的函数"
+      ],
+      "scope_note": "从源标题可审计到该单元涉及“一元二次函数”。建议细化为函数定义、标准一般式及其作为九上求解与识别对象的知识点；但当前来源未给出更细目录，是否包含定义域、对应关系、系数条件等细项需人工复核。"
+    },
+    {
+      "id": "HKG-NODE-NODE-Y-AX-BX-C-A-0",
+      "label": "一元二次函数的概念与一般形式（y=ax²+bx+c，a≠0）",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "函数",
+      "knowledge_point": "一元二次函数的概念与一般形式（y=ax²+bx+c，a≠0）",
+      "stage_label": "Grade 9 semester 1",
+      "normalized_difficulty": 69.57,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:一元二次函数及其图像",
+      "synonyms": [
+        "二次函数",
+        "一元二次函数"
+      ],
+      "scope_note": "根据题名可审计到该单元涉及“一元二次函数”这一对象本身。建议将“函数概念/解析式形式”与“图像性质”分开建点；本节点仅覆盖一元二次函数的对象识别、一般形式及与一次函数的类型区分，不默认包含顶点式、交点式、最值或应用题。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-123",
+      "label": "根据二次函数表达式确定抛物线的对称轴",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "函数",
+      "knowledge_point": "根据二次函数表达式确定抛物线的对称轴",
+      "stage_label": "Grade 9 semester 2",
+      "normalized_difficulty": 73.91,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:抛物线、二次函数及其对称轴、开口方向的求解",
+      "synonyms": [
+        "求二次函数的对称轴",
+        "求抛物线对称轴",
+        "确定二次函数图象的对称轴"
+      ],
+      "scope_note": "聚焦于由二次函数解析式判断或求出对称轴，不默认包含顶点坐标、配方法化简或图象平移的系统展开。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-124",
+      "label": "根据二次函数表达式确定抛物线的开口方向",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "函数",
+      "knowledge_point": "根据二次函数表达式确定抛物线的开口方向",
+      "stage_label": "Grade 9 semester 2",
+      "normalized_difficulty": 73.91,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:抛物线、二次函数及其对称轴、开口方向的求解",
+      "synonyms": [
+        "求二次函数开口方向",
+        "判断抛物线开口方向",
+        "确定二次函数图象开口方向"
+      ],
+      "scope_note": "聚焦于由二次函数解析式判断抛物线开口向上或向下，不扩展到开口大小比较或图象伸缩变换。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-130",
+      "label": "二次函数在对称轴两侧区间上的增减性",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "函数",
+      "knowledge_point": "二次函数在对称轴两侧区间上的增减性",
+      "stage_label": "Grade 9 semester 2",
+      "normalized_difficulty": 73.91,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:二次函数的增减性",
+      "synonyms": [
+        "二次函数的单调性",
+        "二次函数图象的增减性",
+        "抛物线的增减性"
+      ],
+      "scope_note": "聚焦二次函数图象与对称轴相关的单调性判断：根据开口方向与对称轴位置，判断函数在对称轴左侧和右侧区间上的增减情况。该知识点通常不表示“在整个定义域上单调”。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-131",
+      "label": "二次函数在顶点两侧区间上的增减性",
+      "type": "knowledge_point",
+      "domain": "代数",
+      "subfield": "函数",
+      "knowledge_point": "二次函数在顶点两侧区间上的增减性",
+      "stage_label": "Grade 9 semester 2",
+      "normalized_difficulty": 73.91,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:二次函数的增减性",
+      "synonyms": [
+        "二次函数的增减性",
+        "二次函数的单调性",
+        "抛物线的增减性"
+      ],
+      "scope_note": "聚焦二次函数图像或解析式所反映的增减规律，通常以顶点为分界讨论函数在两个区间上的递增或递减，不泛化到任意函数的单调性理论。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-133",
+      "label": "辨认并区分长方体、正方体、圆柱体、球",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "辨认并区分长方体、正方体、圆柱体、球",
+      "stage_label": "Grade 1 semester 1",
+      "normalized_difficulty": 0.0,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:区分长方体、正方体、圆柱体、球",
+      "synonyms": [
+        "认识长方体、正方体、圆柱体、球",
+        "辨认长方体、正方体、圆柱体、球",
+        "区分四种常见立体图形",
+        "立体图形的初步认识"
+      ],
+      "scope_note": "范围限于一年级上学期对常见立体图形的直观辨认、命名与简单分类，不延伸到棱、顶点、面等性质的系统描述，也不包含立体图形展开图、体积计算或严谨定义。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-134",
+      "label": "辨认并区分长方体、正方体、圆柱体、球等常见立体图形",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "辨认并区分长方体、正方体、圆柱体、球等常见立体图形",
+      "stage_label": "Grade 1 semester 1",
+      "normalized_difficulty": 0.0,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:区分长方体、正方体、圆柱体、球",
+      "synonyms": [
+        "区分长方体、正方体、圆柱体、球",
+        "辨认长方体、正方体、圆柱体、球",
+        "认识长方体、正方体、圆柱体、球",
+        "认识常见立体图形",
+        "区分常见立体图形"
+      ],
+      "scope_note": "侧重在一年级上册对常见立体图形进行直观辨认、分类与名称对应，通常依据整体外形和生活中的实物原型进行区分；不应扩大为系统描述棱、顶点、面等几何性质，也不应提前延伸到展开图、体积或表面积计算。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-136",
+      "label": "用已认识的平面图形进行拼接，形成新的图形或图案",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "用已认识的平面图形进行拼接，形成新的图形或图案",
+      "stage_label": "Grade 1 semester 2",
+      "normalized_difficulty": 4.35,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:图形的拼接",
+      "synonyms": [
+        "平面图形的拼接",
+        "图形拼接",
+        "用图形拼出新图形",
+        "图形的组合拼摆"
+      ],
+      "scope_note": "建议限定为低年级基于直观操作的平面图形拼接活动，如把常见平面图形拼成新的图形或简单图案。当前证据不足以支持更高阶范围，如面积守恒、切拼变换、七巧板策略化分解，宜与后续年级相关内容区分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-140",
+      "label": "角的初步认识",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "角",
+      "knowledge_point": "角的初步认识",
+      "stage_label": "Grade 2 semester 1",
+      "normalized_difficulty": 8.7,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:角的初步认识",
+      "synonyms": [
+        "初步认识角",
+        "认识角"
+      ],
+      "scope_note": "基于现有运行时图谱条目进行审校，当前仅能稳定支持“对角这一几何对象的初步建立与识别”这一入门级节点；是否包含角的各部分名称、角的大小直观比较、画角或用符号表示角，来源摘要未提供充分证据，暂不细分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-148",
+      "label": "初步认识平移现象",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "初步认识平移现象",
+      "stage_label": "Grade 2 semester 2",
+      "normalized_difficulty": 13.04,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:轴对称、平移、旋转的概念与认识",
+      "synonyms": [
+        "平移的初步认识",
+        "认识平移",
+        "平移现象的认识"
+      ],
+      "scope_note": "本节点聚焦对平移现象的直观识别与生活实例理解，适合低年级入门。范围内不预设网格中的平移作图、平移距离与方向的形式化表示，也不扩展到坐标变换。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-149",
+      "label": "初步认识旋转现象",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "初步认识旋转现象",
+      "stage_label": "Grade 2 semester 2",
+      "normalized_difficulty": 13.04,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:轴对称、平移、旋转的概念与认识",
+      "synonyms": [
+        "旋转的初步认识",
+        "认识旋转",
+        "旋转现象的认识"
+      ],
+      "scope_note": "本节点对应对旋转现象的直观认识与辨别，通常基于生活情境或简单图形变化。范围外包括旋转中心、旋转角度、按指定条件作旋转图形等较高阶段内容。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-153",
+      "label": "长方形周长的计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "长方形周长的计算",
+      "stage_label": "Grade 3 semester 1",
+      "normalized_difficulty": 17.39,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:正方形和长方形的周长计算",
+      "synonyms": [
+        "长方形的周长计算",
+        "计算长方形周长"
+      ],
+      "scope_note": "依据长方形四条边长度关系计算周长，可包含按边长相加或用长、宽关系进行计算。该节点从合并表述中拆分出长方形部分，便于与正方形周长区分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-154",
+      "label": "正方形周长的计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "正方形周长的计算",
+      "stage_label": "Grade 3 semester 1",
+      "normalized_difficulty": 17.39,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:正方形和长方形的周长计算",
+      "synonyms": [
+        "正方形的周长计算",
+        "计算正方形周长"
+      ],
+      "scope_note": "依据正方形四边相等的性质计算周长，可包含四条边相加或边长与4的关系进行计算。该节点从合并表述中拆分出正方形部分，便于细化教学粒度。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-162",
+      "label": "正方形和长方形面积的计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "正方形和长方形面积的计算",
+      "stage_label": "Grade 3 semester 2",
+      "normalized_difficulty": 21.74,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:正方形和长方形的面积计算",
+      "synonyms": [
+        "正方形和长方形的面积计算",
+        "正方形与长方形面积计算"
+      ],
+      "scope_note": "对应现有运行时图谱中的合并节点，覆盖规则四边形中正方形与长方形的面积求法，不应扩展到周长计算或其他平面图形面积。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-163",
+      "label": "用长×宽计算长方形的面积，并能用边长×边长计算正方形的面积",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "用长×宽计算长方形的面积，并能用边长×边长计算正方形的面积",
+      "stage_label": "Grade 3 semester 2",
+      "normalized_difficulty": 21.74,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:正方形和长方形的面积计算",
+      "synonyms": [
+        "长方形和正方形的面积计算",
+        "长方形面积计算",
+        "正方形面积计算",
+        "长方形、正方形面积公式",
+        "长方形和正方形的面积公式应用"
+      ],
+      "scope_note": "依据给定来源标题与图谱路径，可审计到的核心范围是长方形、正方形的面积计算方法。当前仅能稳妥标注为两类平面图形面积公式的入门应用，不扩展到面积单位换算、复杂组合图形求面积或周长面积综合比较。若后续教材证据显示分课时分别建立长方形面积公式与正方形面积公式，可再拆分节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-100",
+      "label": "相邻常用面积单位之间的进率为100（平方厘米、平方分米、平方米）",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "相邻常用面积单位之间的进率为100（平方厘米、平方分米、平方米）",
+      "stage_label": "Grade 3 semester 2",
+      "normalized_difficulty": 21.74,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:面积单位之间的进率",
+      "synonyms": [
+        "面积单位的进率",
+        "相邻面积单位间的进率",
+        "常用面积单位之间的进率",
+        "面积单位换算"
+      ],
+      "scope_note": "依据现有图谱词条“面积单位之间的进率”进行细化审校。建议本节点限定为三年级下册系统学习的常用面积单位范围，即平方厘米、平方分米、平方米之间的相邻单位进率与换算，不默认扩展到公顷、平方千米等更高阶段内容。"
+    },
+    {
+      "id": "HKG-NODE-NODE-100-02",
+      "label": "相邻常用面积单位之间的进率为100，并能进行简单换算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "相邻常用面积单位之间的进率为100，并能进行简单换算",
+      "stage_label": "Grade 3 semester 2",
+      "normalized_difficulty": 21.74,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:面积单位之间的进率",
+      "synonyms": [
+        "面积单位的进率",
+        "面积单位间的进率",
+        "面积单位之间的换算",
+        "常用面积单位的换算"
+      ],
+      "scope_note": "依据现有图谱条目，范围宜理解为小学阶段已引入的常用面积单位之间的相邻进率关系及基础换算，通常对应平方厘米、平方分米、平方米等；但当前来源未明确列出具体单位，需人工核验是否同时覆盖全部相邻单位关系。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-166",
+      "label": "常用面积单位的认识与区分",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "常用面积单位的认识与区分",
+      "stage_label": "Grade 3 semester 2",
+      "normalized_difficulty": 21.74,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:常用的面积单位",
+      "synonyms": [
+        "常见的面积单位",
+        "面积单位",
+        "面积的常用单位"
+      ],
+      "scope_note": "基于来源标题与运行时图谱路径，可审计到本节点聚焦于面积计量中“常用单位”的识别、名称区分与基础使用。当前证据不足以细化到具体单位集合、单位换算规则或单位选择应用题，建议与“面积单位换算”“用合适单位表示面积”等后续节点区分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-167",
+      "label": "认识并区分常用面积单位",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "认识并区分常用面积单位",
+      "stage_label": "Grade 3 semester 2",
+      "normalized_difficulty": 21.74,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:常用的面积单位",
+      "synonyms": [
+        "常见面积单位",
+        "面积单位",
+        "常用的面积计量单位"
+      ],
+      "scope_note": "依据来源标题，可稳定支持的范围是对常用面积单位这一组概念的认识、区分与在面积情境中的使用；未见更细分证据时，不应擅自细化到具体单位换算规则或全部单位清单。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-172",
+      "label": "面积单位“公顷”的认识与使用",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "面积单位“公顷”的认识与使用",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:公顷和平方千米的认识和转换",
+      "synonyms": [
+        "公顷的认识",
+        "认识公顷",
+        "公顷的认识与使用"
+      ],
+      "scope_note": "聚焦把公顷作为较大的面积单位进行识别、理解其适用场景，并在面积表述中正确使用。来源仅显示“认识和转换”，未提供更细教材证据，因此不细化到具体例题或表述方式。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-175",
+      "label": "公顷和平方千米的认识与单位换算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "公顷和平方千米的认识与单位换算",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:公顷和平方千米的认识和转换",
+      "synonyms": [
+        "公顷和平方千米的认识和转换",
+        "公顷与平方千米的认识与换算",
+        "面积单位公顷和平方千米"
+      ],
+      "scope_note": "聚焦较大面积单位公顷、平方千米的含义认识及二者与相邻常用面积单位之间的换算。来源摘要仅明确“认识和转换”的合并表述，是否应细分为单位认识、单位选择、单位换算、实际测量估计等子节点，需人工复核。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-177",
+      "label": "按角的大小分类角",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "角",
+      "knowledge_point": "按角的大小分类角",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:角的度量和分类（锐角、钝角等）",
+      "synonyms": [
+        "角的分类",
+        "根据角的大小分类",
+        "角按大小分类"
+      ],
+      "scope_note": "从合并表述中拆分出的知识点之一，聚焦依据角的大小进行分类。根据源中的“锐角、钝角等”可确定至少涉及锐角、钝角；通常还会包含直角，但“等”所覆盖的精确类别集合需人工核验。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-179",
+      "label": "按角的大小分类角（如锐角、钝角）",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "角",
+      "knowledge_point": "按角的大小分类角（如锐角、钝角）",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:角的度量和分类（锐角、钝角等）",
+      "synonyms": [
+        "角的分类",
+        "按角的大小分类",
+        "角的大小分类"
+      ],
+      "scope_note": "依据角的大小对角进行类别判断。当前证据可审计到“锐角、钝角等”，因此适合作为“按大小分类角”的总节点；具体包含哪些类别应由人工结合教材或标准确认。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-183",
+      "label": "梯形的识别与初步认识",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "梯形的识别与初步认识",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:四边形和梯形",
+      "synonyms": [
+        "认识梯形",
+        "梯形"
+      ],
+      "scope_note": "依据单元标题“梯形”可审计到本单元涉及梯形的认识。当前建议限定为识别与初步分类层面；关于“只有一组对边平行”或等腰梯形等更细性质，需要教材证据后再细化。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-188",
+      "label": "四边形的识别与按边数分类",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "四边形的识别与按边数分类",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:四边形和梯形",
+      "synonyms": [
+        "四边形",
+        "四边形识别",
+        "按边数识别四边形"
+      ],
+      "scope_note": "依据来源标题“四边形和梯形”，可审计的最低风险拆分之一是把“四边形”作为独立知识点，范围限于识别四条边围成的平面图形、将其作为一类图形进行分类；不外推到平行四边形、长方形、正方形性质证明等更细内容。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-191",
+      "label": "在平面图形中识别平行线关系",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "在平面图形中识别平行线关系",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:平行于垂直",
+      "synonyms": [
+        "平行",
+        "平行线",
+        "两条直线互相平行"
+      ],
+      "scope_note": "由现有运行时图谱节点“平行于垂直”审计拆分出的候选知识点之一。范围宜限定为小学阶段对平面内两条直线平行关系的直观识别，不延伸到解析几何、立体几何或公理化定义。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-192",
+      "label": "在平面图形中识别垂直关系",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "在平面图形中识别垂直关系",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:平行于垂直",
+      "synonyms": [
+        "垂直",
+        "互相垂直",
+        "垂线"
+      ],
+      "scope_note": "由现有运行时图谱节点“平行于垂直”审计拆分出的候选知识点之一。范围宜限定为小学阶段对两条直线相互垂直的直观识别，不默认包含垂足、距离或坐标系中的斜率判定。"
+    },
+    {
+      "id": "HKG-NODE-NODE-180",
+      "label": "三角形内角和是180°",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "三角形内角和是180°",
+      "stage_label": "Grade 4 semester 2",
+      "normalized_difficulty": 30.43,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:三角形的特性、分类、内角和",
+      "synonyms": [
+        "三角形的内角和",
+        "三角形内角和为180度"
+      ],
+      "scope_note": "指任意三角形三个内角的和为180°，用于求未知角及解释分类关系；在小学阶段通常重在理解与应用，不要求形式化证明。"
+    },
+    {
+      "id": "HKG-NODE-NODE-180-02",
+      "label": "三角形的内角和是180°",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "三角形的内角和是180°",
+      "stage_label": "Grade 4 semester 2",
+      "normalized_difficulty": 30.43,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:三角形的特性、分类、内角和",
+      "synonyms": [
+        "三角形内角和",
+        "三角形的内角和为180度"
+      ],
+      "scope_note": "标题明确包含“内角和”，可细化为三角形内角和结论。适用于认识并运用该结论进行基础求角，不据此外推到多边形内角和或证明性要求。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-211",
+      "label": "识别轴对称现象与轴对称图形，并进行简单应用",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "识别轴对称现象与轴对称图形，并进行简单应用",
+      "stage_label": "Grade 4 semester 2",
+      "normalized_difficulty": 30.43,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:轴对称、平移、旋转的判断与利用",
+      "synonyms": [
+        "轴对称的判断与利用",
+        "判断和利用轴对称",
+        "轴对称图形的识别与应用"
+      ],
+      "scope_note": "依据来源标题可审计到“轴对称”的判断与利用，但未细化到是否包括对称轴条数、补全对称图形、生活实例识别等具体任务；建议作为“识别与简单应用”的统称节点，后续再按题型细分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-212",
+      "label": "识别平移现象，并进行简单应用",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "识别平移现象，并进行简单应用",
+      "stage_label": "Grade 4 semester 2",
+      "normalized_difficulty": 30.43,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:轴对称、平移、旋转的判断与利用",
+      "synonyms": [
+        "平移的判断与利用",
+        "判断和利用平移",
+        "平移现象的识别与应用"
+      ],
+      "scope_note": "依据来源标题可审计到“平移”的判断与利用，但未给出是否涉及在方格纸上平移图形、描述平移方向与格数、用平移解释图案变化等具体要求；暂按“识别与简单应用”建节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-222",
+      "label": "平行四边形面积的计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "平行四边形面积的计算",
+      "stage_label": "Grade 5 semester 1",
+      "normalized_difficulty": 34.78,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:多边形面积（平行四边形、三角形、梯形、组合图形）",
+      "synonyms": [
+        "平行四边形的面积",
+        "平行四边形面积",
+        "求平行四边形面积"
+      ],
+      "scope_note": "指求平行四边形面积的规则与应用，通常围绕底、高与面积关系展开；不含周长计算，也不泛化到所有多边形统一公式。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-223",
+      "label": "三角形面积的计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "三角形面积的计算",
+      "stage_label": "Grade 5 semester 1",
+      "normalized_difficulty": 34.78,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:多边形面积（平行四边形、三角形、梯形、组合图形）",
+      "synonyms": [
+        "三角形的面积",
+        "三角形面积",
+        "求三角形面积"
+      ],
+      "scope_note": "指求三角形面积的规则与应用，通常围绕底、高与面积关系展开；不含三角形分类性质，也不含周长问题。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-232",
+      "label": "计算长方体和正方体的体积",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "计算长方体和正方体的体积",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:长方体和正方体的认识以及表面积体积计算",
+      "synonyms": [
+        "长方体体积",
+        "正方体体积",
+        "体积计算"
+      ],
+      "scope_note": "从合并条目中拆分出的计算类知识点，聚焦长方体与正方体体积的求法与应用。若课程还涉及体积单位换算或容积关联，当前来源未足以确认，应另审。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-238",
+      "label": "长方体和正方体的认识与表面积、体积计算（待拆分复合节点）",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "长方体和正方体的认识与表面积、体积计算（待拆分复合节点）",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:长方体和正方体的认识以及表面积体积计算",
+      "synonyms": [
+        "长方体和正方体的认识以及表面积体积计算"
+      ],
+      "scope_note": "这是来源中现有运行时图谱的原始复合表述，覆盖图形认识、表面积计算、体积计算多个操作范围，适合作为待拆分审计记录，不宜直接作为最终最小教学节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-240",
+      "label": "理解半径的含义：连接圆心与圆上任意一点的线段",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "理解半径的含义：连接圆心与圆上任意一点的线段",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:圆的认识（圆心、半径、直径）",
+      "synonyms": [
+        "半径的认识",
+        "圆的半径",
+        "半径"
+      ],
+      "scope_note": "聚焦半径作为圆的基本要素的定义性认识与识别，可用于指出图中的半径；不默认包含用字母表示、数量计算或面积公式应用。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-241",
+      "label": "理解直径的含义：经过圆心并连接圆上两点的线段",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "理解直径的含义：经过圆心并连接圆上两点的线段",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:圆的认识（圆心、半径、直径）",
+      "synonyms": [
+        "直径的认识",
+        "圆的直径",
+        "直径"
+      ],
+      "scope_note": "聚焦直径的定义性认识与图形识别，不默认扩展到长度计算、符号表示或与其他弦的性质比较。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-250",
+      "label": "计算圆的周长",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "计算圆的周长",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:圆的周长与面积",
+      "synonyms": [
+        "圆的周长",
+        "圆周长计算",
+        "求圆的周长"
+      ],
+      "scope_note": "由来源标题“圆的周长与面积”拆分出的细粒度节点之一，聚焦圆周长的求法与相关简单问题；未根据当前证据进一步细化到公式表述、推导过程或复杂应用题层级。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-251",
+      "label": "计算圆的面积",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "计算圆的面积",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:圆的周长与面积",
+      "synonyms": [
+        "圆的面积",
+        "圆面积计算",
+        "求圆的面积"
+      ],
+      "scope_note": "由来源标题“圆的周长与面积”拆分出的细粒度节点之一，聚焦圆面积的求法与相关简单问题；未根据当前证据进一步细化到公式推导、组合图形应用或逆向求量。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-258",
+      "label": "圆环的面积",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "圆环的面积",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:圆环的面积",
+      "synonyms": [
+        "环形面积",
+        "圆环面积"
+      ],
+      "scope_note": "聚焦圆环面积的求法与应用，通常与圆面积知识联动；可审计到的最小稳定节点名称为“圆环的面积”。是否系统要求使用“外圆面积减内圆面积”的表达，需人工复核原始教材或课标证据。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-259",
+      "label": "圆环的面积计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "圆环的面积计算",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:圆环的面积",
+      "synonyms": [
+        "环形面积",
+        "圆环面积",
+        "圆环的面积"
+      ],
+      "scope_note": "指由同心或内外两个圆围成的环形区域面积，通常基于“大圆面积减小圆面积”进行计算。应与圆的面积区分；若教材仅作为圆面积应用题型出现，需人工确认是否单列为独立知识点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-260",
+      "label": "认识扇形及其基本构成",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "认识扇形及其基本构成",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:扇形的认识与面积",
+      "synonyms": [
+        "扇形的认识",
+        "认识扇形",
+        "扇形概念"
+      ],
+      "scope_note": "依据源标题“扇形的认识与面积”，可审计出该复合条目至少包含“扇形的认识”。建议细化为对扇形这一由圆心角及其所对弧围成图形的辨认与基本组成理解；是否系统包含术语如圆心角、弧等，需人工复核原始图谱或教材映射。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-265",
+      "label": "扇形面积的计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "扇形面积的计算",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:扇形的认识与面积",
+      "synonyms": [
+        "扇形的面积",
+        "求扇形面积",
+        "扇形面积"
+      ],
+      "scope_note": "依据条目标题，可审计到六年级上册引入“扇形面积”作为可计算对象。建议范围限定为：在圆面积基础上求扇形面积的基本方法与简单应用。当前来源不足以确认具体公式表述、分数关系、百分数关系或反向求量题型，暂不写入更细节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-269",
+      "label": "识别圆柱和圆锥并进行基本区分",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "识别圆柱和圆锥并进行基本区分",
+      "stage_label": "Grade 6 semester 2",
+      "normalized_difficulty": 47.83,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:圆柱与圆锥的认识（特征、切割）",
+      "synonyms": [
+        "圆柱与圆锥的认识",
+        "认识圆柱和圆锥",
+        "辨认圆柱与圆锥"
+      ],
+      "scope_note": "依据来源标题中的“圆柱与圆锥的认识”提出，范围限于对两类立体图形的辨认与区分，不扩展到表面积、体积等计算内容。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-273",
+      "label": "认识圆柱的基本特征",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "认识圆柱的基本特征",
+      "stage_label": "Grade 6 semester 2",
+      "normalized_difficulty": 47.83,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:圆柱与圆锥的认识（特征、切割）",
+      "synonyms": [
+        "圆柱的认识",
+        "圆柱的特征",
+        "圆柱图形特征识别"
+      ],
+      "scope_note": "依据来源标题，可审计到“圆柱”的认识与“特征”范围；宜细化为对圆柱外形组成与直观特征的识别。是否包含底面、侧面、高等术语需人工复核。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-279",
+      "label": "圆柱体积的计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "立体图形的测量",
+      "knowledge_point": "圆柱体积的计算",
+      "stage_label": "Grade 6 semester 2",
+      "normalized_difficulty": 47.83,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:圆柱与圆锥的表面积、体积计算",
+      "synonyms": [
+        "圆柱的体积计算",
+        "求圆柱体积",
+        "圆柱体积"
+      ],
+      "scope_note": "聚焦根据底面积与高计算圆柱体积，并用于基础求值与简单实际问题。应与表面积计算区分，避免把“体积”与“容积”在表层词上混同。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-280",
+      "label": "圆锥体积的计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "立体图形的测量",
+      "knowledge_point": "圆锥体积的计算",
+      "stage_label": "Grade 6 semester 2",
+      "normalized_difficulty": 47.83,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:圆柱与圆锥的表面积、体积计算",
+      "synonyms": [
+        "圆锥的体积计算",
+        "求圆锥体积"
+      ],
+      "scope_note": "建议从原合并节点拆分。范围宜限定为圆锥体积公式及其基础应用。原始标题将“圆锥”与“表面积、体积”并列，但在小学阶段“圆锥表面积”是否单列教学并不明确，因此此节点仅保留体积部分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-284",
+      "label": "区分直线、射线与线段的基本特征",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "区分直线、射线与线段的基本特征",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:直线，射线与线段的区别与联系",
+      "synonyms": [
+        "直线、射线与线段的区别",
+        "辨别直线、射线和线段",
+        "直线射线线段的基本特征比较"
+      ],
+      "scope_note": "依据来源标题，可审计的核心范围是对直线、射线、线段进行辨认与区分。适合限定为比较三类图形在端点情况、向两端或一端延展的性质等基础特征；不宜直接扩展到未在来源中明确出现的更细技能。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-288",
+      "label": "比较直线、射线、线段的区别与联系",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "比较直线、射线、线段的区别与联系",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:直线，射线与线段的区别与联系",
+      "synonyms": [
+        "直线、射线与线段的区别与联系",
+        "直线射线线段的比较",
+        "直线、射线、线段的异同"
+      ],
+      "scope_note": "保留来源中的组合型知识点，强调对三者进行对比：既关注差异，也关注它们同属基本几何图形、可用图形语言表示等联系。该节点适合做上位汇总节点，但可能需要进一步拆成“区别”和“联系”两个更细节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-289",
+      "label": "利用互余与互补关系进行角度计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "利用互余与互补关系进行角度计算",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:角互余互补的有关计算、方位角",
+      "synonyms": [
+        "余角和补角的计算",
+        "互余互补角的计算",
+        "根据互余互补求角"
+      ],
+      "scope_note": "从合并条目中拆分出的可教学知识点。范围应限于识别两个角互余或互补，并据此进行未知角求值；不应泛化到更复杂的角关系证明。‘互余’对应和为90°，‘互补’对应和为180°。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-292",
+      "label": "余角与补角的概念及其数量关系计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "余角与补角的概念及其数量关系计算",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:角互余互补的有关计算、方位角",
+      "synonyms": [
+        "余角与补角",
+        "互余互补的计算",
+        "余补角计算"
+      ],
+      "scope_note": "聚焦两个角互为余角或互为补角时的和的数量关系，并据此进行已知一个角求另一个角的基础计算。建议与更基础的“角的大小与度量”区分，也与更后续的对顶角、平行线中的角关系区分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-294",
+      "label": "常见立体图形与其平面展开图的对应识别",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "常见立体图形与其平面展开图的对应识别",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:立体图形展开平面图",
+      "synonyms": [
+        "立体图形的展开图",
+        "立体图形的平面展开图",
+        "几何体的展开图",
+        "几何体的平面展开图"
+      ],
+      "scope_note": "聚焦常见立体图形与平面展开图之间的对应关系，包括识别立体图形的展开图、由展开图判断可折叠成的立体图形。由于源条目表述为“立体图形展开平面图”，操作方向可能混合了“展开”与“由展开图还原”，后续可按题型需要拆分为两个更细节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-295",
+      "label": "识别常见立体图形的展开图",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "基本图形的认识",
+      "knowledge_point": "识别常见立体图形的展开图",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:立体图形展开平面图",
+      "synonyms": [
+        "立体图形的展开图",
+        "平面展开图",
+        "几何体的展开图",
+        "常见立体图形的展开图识别"
+      ],
+      "scope_note": "聚焦于常见立体图形与其平面展开图之间的对应识别。依据当前来源，宜先理解为“识别/判断展开图”而非系统要求学生独立设计所有展开图；是否包含正方体、长方体、圆柱、圆锥等具体对象需后续教材证据核实。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-301",
+      "label": "相交线与平行线",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "相交线与平行线",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:相交线与平行线",
+      "synonyms": [
+        "直线的相交与平行关系"
+      ],
+      "scope_note": "这是来源中直接出现的现有运行图谱节点名称，更像单元或复合主题标签，覆盖相交与平行两类直线位置关系。建议保留为上位主题节点，并与更细粒度子节点分离。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-302",
+      "label": "点到直线的距离",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "点到直线的距离",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:点到直线的距离",
+      "synonyms": [
+        "点与直线的距离"
+      ],
+      "scope_note": "聚焦于平面几何中点到直线距离这一概念，通常指从该点向该直线所作垂线段的长度。该节点应限于“点—直线”对象间距离，不扩展到点到线段、点到射线、两平行线间距离或坐标法距离公式。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-304",
+      "label": "点到直线的距离的意义与确定方法",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "点到直线的距离的意义与确定方法",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:点到直线的距离",
+      "synonyms": [
+        "点到直线的距离",
+        "一点到直线的距离"
+      ],
+      "scope_note": "建议限定为平面几何中“点到直线的距离”这一概念及其确定方式，即用从一点到已知直线所作垂线段的长度表示距离；不扩展到点到线段、点到射线、两平行线间距离或坐标法中的点到直线距离公式。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-305",
+      "label": "两直线被第三条直线所截时同位角的识别",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "两直线被第三条直线所截时同位角的识别",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:同位角、内错角、同旁内角",
+      "synonyms": [
+        "同位角",
+        "对应位置的角"
+      ],
+      "scope_note": "限于平面几何中两条直线被一条截线所截形成的角位置关系识别；本节点侧重概念辨认，不单独包含利用平行线性质或判定进行推理的完整规则链。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-306",
+      "label": "两直线被第三条直线所截时内错角的识别",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "两直线被第三条直线所截时内错角的识别",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:同位角、内错角、同旁内角",
+      "synonyms": [
+        "内错角"
+      ],
+      "scope_note": "限于平面几何中两条直线被一条截线所截形成的内错角位置关系识别；不直接扩展到平行线判定或性质证明的系统应用。"
+    },
+    {
+      "id": "HKG-NODE-NODE-X-Y",
+      "label": "根据点的坐标求点到x轴、y轴的距离",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "数轴与坐标系",
+      "knowledge_point": "根据点的坐标求点到x轴、y轴的距离",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:平面直角坐标系（象限、点到坐标轴的距离、对称点）",
+      "synonyms": [
+        "点到坐标轴的距离",
+        "点到x轴和y轴的距离",
+        "坐标轴距离的求法"
+      ],
+      "scope_note": "限于在平面直角坐标系中，由点的横坐标或纵坐标的绝对值确定其到坐标轴的距离；不涉及两点间距离公式或点到一般直线的距离。"
+    },
+    {
+      "id": "HKG-NODE-NODE-X-Y-03",
+      "label": "求平面直角坐标系中一点到x轴和y轴的距离",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "数轴与坐标系",
+      "knowledge_point": "求平面直角坐标系中一点到x轴和y轴的距离",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:平面直角坐标系（象限、点到坐标轴的距离、对称点）",
+      "synonyms": [
+        "点到坐标轴的距离",
+        "点到x轴和y轴的距离",
+        "坐标平面中点到轴的距离"
+      ],
+      "scope_note": "范围是由点的坐标确定其到两条坐标轴的距离，通常对应距离分别为纵坐标和横坐标的绝对值；不扩展到点到一般直线的距离公式。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-326",
+      "label": "数轴上两点中点的坐标公式",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "数轴与坐标系",
+      "knowledge_point": "数轴上两点中点的坐标公式",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:中点坐标公式",
+      "synonyms": [
+        "中点坐标公式",
+        "数轴中点坐标公式",
+        "线段中点坐标公式（数轴上）"
+      ],
+      "scope_note": "建议将该节点限定为一维数轴情境中已知两点坐标求中点坐标，通常对应端点坐标平均。若包含平面直角坐标系中线段中点坐标，应另行审核是否拆分为二维版本。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-327",
+      "label": "三角形三边关系（任意两边之和大于第三边，任意两边之差小于第三边）",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "三角形",
+      "knowledge_point": "三角形三边关系（任意两边之和大于第三边，任意两边之差小于第三边）",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:三角形三边关系、边长",
+      "synonyms": [
+        "三角形三边关系",
+        "三角形三边不等关系",
+        "三角形三边的关系",
+        "三角形三边不等式"
+      ],
+      "scope_note": "从种子标题可稳定审计出的核心内容是“三角形三边关系”。该节点宜限定为三角形三边可构成条件及第三边取值范围，不应泛化为所有图形的边长问题。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-331",
+      "label": "三角形三边关系",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "三角形",
+      "knowledge_point": "三角形三边关系",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:三角形三边关系、边长",
+      "synonyms": [
+        "三角形边的关系",
+        "三角形三边的关系"
+      ],
+      "scope_note": "指三角形三边之间的基本约束关系。建议在后续人工审核时明确是否包含“任意两边之和大于第三边、任意两边之差小于第三边”及其应用；当前来源仅能稳定支持“有一个三边关系主题节点”。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-333",
+      "label": "多边形内角和定理及其计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "角",
+      "knowledge_point": "多边形内角和定理及其计算",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:多边形及其内角和、外角和",
+      "synonyms": [
+        "多边形的内角和",
+        "n边形内角和",
+        "多边形内角和公式"
+      ],
+      "scope_note": "聚焦凸多边形内角和与边数之间的关系，以及根据边数求内角和、结合已知角求未知角的基础应用。原始条目把内角和与外角和并列，建议拆分为独立知识点以便细化练习与检索。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-335",
+      "label": "多边形内角和公式及其应用",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "角",
+      "knowledge_point": "多边形内角和公式及其应用",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:多边形及其内角和、外角和",
+      "synonyms": [
+        "多边形的内角和",
+        "n边形内角和",
+        "多边形内角和公式"
+      ],
+      "scope_note": "聚焦n边形内角和的规律、公式表达与求角应用；不等同于三角形内角和，也不覆盖所有多边形性质。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-339",
+      "label": "三角形外角的定义（由三角形一边与其邻边延长线组成的角）",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "角",
+      "knowledge_point": "三角形外角的定义（由三角形一边与其邻边延长线组成的角）",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:三角形的外角及其性质",
+      "synonyms": [
+        "三角形的外角",
+        "三角形外角"
+      ],
+      "scope_note": "从来源标题“外角及其性质”可审计出该单元至少包含“三角形外角”这一对象的识别与定义。适合限定为三角形情境，不泛化到多边形外角和或外角定理体系。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-342",
+      "label": "三角形外角的定义与识别",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "角",
+      "knowledge_point": "三角形外角的定义与识别",
+      "stage_label": "Grade 7 semester 2",
+      "normalized_difficulty": 56.52,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:三角形的外角及其性质",
+      "synonyms": [
+        "三角形的外角",
+        "三角形外角"
+      ],
+      "scope_note": "聚焦三角形外角作为由三角形一边与其邻边延长线形成的角的识别与基本表征。该节点对应“外角”概念本身，宜与性质定理分拆。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-346",
+      "label": "全等三角形",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "三角形",
+      "knowledge_point": "全等三角形",
+      "stage_label": "Grade 8 semester 1",
+      "normalized_difficulty": 60.87,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:三角形的全等与相似",
+      "synonyms": [
+        "三角形全等",
+        "全等三角形",
+        "三角形的全等"
+      ],
+      "scope_note": "建议将原合并节点拆分。该节点指向三角形全等的概念、性质与判定这一组核心内容；源摘要仅提供合并标题，未给出更细分条目，需人工核实是否应继续细分为“性质”和“判定”。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-348",
+      "label": "三角形全等",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "三角形",
+      "knowledge_point": "三角形全等",
+      "stage_label": "Grade 8 semester 1",
+      "normalized_difficulty": 60.87,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:三角形的全等与相似",
+      "synonyms": [
+        "全等三角形",
+        "三角形的全等"
+      ],
+      "scope_note": "从种子条目“三角形的全等与相似”中拆分出的候选节点之一。建议限定为三角形全等的概念、判定与基础性质，不自动包含相似内容。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-352",
+      "label": "多边形的内角",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "多边形",
+      "knowledge_point": "多边形的内角",
+      "stage_label": "Grade 8 semester 1",
+      "normalized_difficulty": 60.87,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:多边形的内角、外角",
+      "synonyms": [
+        "多边形内角"
+      ],
+      "scope_note": "依据源标题可确认该单元覆盖“多边形的内角”这一对象层概念。当前证据不足以细化到内角定义、内角和公式或具体求角策略，建议后续结合教材或课标再细分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-353",
+      "label": "多边形的外角",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "多边形",
+      "knowledge_point": "多边形的外角",
+      "stage_label": "Grade 8 semester 1",
+      "normalized_difficulty": 60.87,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:多边形的内角、外角",
+      "synonyms": [
+        "多边形外角"
+      ],
+      "scope_note": "依据源标题可确认该单元覆盖“多边形的外角”这一对象层概念。当前证据不足以细化到外角定义、外角和性质或按顺序取外角求和等规则，建议后续补充教材证据后审定。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-357",
+      "label": "勾股定理",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "三角形",
+      "knowledge_point": "勾股定理",
+      "stage_label": "Grade 8 semester 1",
+      "normalized_difficulty": 60.87,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:股定理与勾股定理逆定理",
+      "synonyms": [
+        "毕达哥拉斯定理",
+        "勾股定理"
+      ],
+      "scope_note": "在直角三角形中建立两直角边与斜边长度平方关系，并用于边长计算与基础证明。根据标题中的并列结构，宜与“勾股定理逆定理”拆分为独立节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-358",
+      "label": "勾股定理逆定理",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "三角形",
+      "knowledge_point": "勾股定理逆定理",
+      "stage_label": "Grade 8 semester 1",
+      "normalized_difficulty": 60.87,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:股定理与勾股定理逆定理",
+      "synonyms": [
+        "勾股定理的逆定理",
+        "毕达哥拉斯定理逆定理"
+      ],
+      "scope_note": "根据三边长度满足平方和关系判定三角形为直角三角形，用于三角形形状判定与基础证明。应与“勾股定理”区分，因其运算方向和问题类型不同。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-360",
+      "label": "复合图形中由平行四边形与三角形组成图形的面积分解与拼合计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "周长和面积",
+      "knowledge_point": "复合图形中由平行四边形与三角形组成图形的面积分解与拼合计算",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:平行四边形与三角形结合的较为复杂的运算",
+      "synonyms": [
+        "平行四边形与三角形组合图形的面积计算",
+        "平行四边形和三角形复合图形面积",
+        "平行四边形与三角形面积的分解计算"
+      ],
+      "scope_note": "聚焦面积问题：识别复合图形中平行四边形与三角形的组合关系，利用分割、补形、拼合等方法进行面积计算。该节点是对原始表述“较为复杂的运算”的细化，不包含纯代数运算规则。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-370",
+      "label": "弧的概念与识别",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "圆",
+      "knowledge_point": "弧的概念与识别",
+      "stage_label": "Grade 9 semester 1",
+      "normalized_difficulty": 69.57,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:圆心角、弧",
+      "synonyms": [
+        "弧"
+      ],
+      "scope_note": "依据源标题“圆心角、弧”，可审计到弧作为独立学习对象出现。当前仅适合标注为弧的基本对象认识与识别，不宜外推到弧长公式、优弧劣弧分类或与圆周角的系统性质。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-375",
+      "label": "点与圆的位置关系的判定",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "圆",
+      "knowledge_point": "点与圆的位置关系的判定",
+      "stage_label": "Grade 9 semester 1",
+      "normalized_difficulty": 69.57,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:点、圆、直线和圆的位置关系",
+      "synonyms": [
+        "点和圆的位置关系",
+        "点与圆的位置关系"
+      ],
+      "scope_note": "依据点到圆心的距离与半径的大小关系，区分点在圆内、圆上、圆外。该节点从复合标题中拆分得到，属于可操作的基础判定知识。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-376",
+      "label": "直线与圆的位置关系的判定",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "圆",
+      "knowledge_point": "直线与圆的位置关系的判定",
+      "stage_label": "Grade 9 semester 1",
+      "normalized_difficulty": 69.57,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:点、圆、直线和圆的位置关系",
+      "synonyms": [
+        "直线和圆的位置关系",
+        "直线与圆的位置关系"
+      ],
+      "scope_note": "区分直线与圆相离、相切、相交等位置关系。该节点由复合标题拆分，适合作为独立教学知识点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-382",
+      "label": "弧长公式及弧长计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "圆",
+      "knowledge_point": "弧长公式及弧长计算",
+      "stage_label": "Grade 9 semester 1",
+      "normalized_difficulty": 69.57,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:弧长和扇形面积",
+      "synonyms": [
+        "弧长计算",
+        "圆弧长度的求法",
+        "弧长公式"
+      ],
+      "scope_note": "聚焦圆中弧长的概念、弧长与圆心角及半径的数量关系、以及已知半径和圆心角求弧长的常规计算。建议与扇形面积拆分为并列知识点，便于题型归类与跨阶段追踪。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-383",
+      "label": "扇形面积公式及扇形面积计算",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "圆",
+      "knowledge_point": "扇形面积公式及扇形面积计算",
+      "stage_label": "Grade 9 semester 1",
+      "normalized_difficulty": 69.57,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:弧长和扇形面积",
+      "synonyms": [
+        "扇形面积计算",
+        "求扇形面积",
+        "扇形面积公式"
+      ],
+      "scope_note": "聚焦扇形面积的概念、扇形面积与圆心角及半径的数量关系、以及已知半径和圆心角求扇形面积的常规计算。可与弧长建立同单元关联，但建议作为独立节点存储。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-389",
+      "label": "图形的旋转",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "图形的旋转",
+      "stage_label": "Grade 9 semester 1",
+      "normalized_difficulty": 69.57,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:图形的旋转",
+      "synonyms": [
+        "旋转",
+        "图形旋转",
+        "平面图形的旋转"
+      ],
+      "scope_note": "指平面图形绕某一点按一定方向旋转一定角度后的对应关系与性质，作为初中几何中的一种图形变换来学习。当前来源仅能确认该节点标题与所属路径，未提供更细的子技能边界，如旋转中心、旋转角、对应点性质、作图步骤等，建议后续按教材或课标进一步细分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-390",
+      "label": "图形的旋转（平面几何中的旋转变换）",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "图形的旋转（平面几何中的旋转变换）",
+      "stage_label": "Grade 9 semester 1",
+      "normalized_difficulty": 69.57,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:图形的旋转",
+      "synonyms": [
+        "旋转变换",
+        "图形旋转",
+        "平面图形的旋转"
+      ],
+      "scope_note": "依据来源仅能确认该单元主题为九年级上册“图形的旋转”。建议暂按较粗粒度节点处理为平面图形在旋转中心、旋转方向和旋转角确定下的旋转变换主题，不外延到旋转对称、坐标变换中的公式化处理或生活语境下的一般转动。后续可人工审核是否拆分为旋转定义、性质、作图与应用等子节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-392",
+      "label": "圆周角定理",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "圆",
+      "knowledge_point": "圆周角定理",
+      "stage_label": "Grade 9 semester 2",
+      "normalized_difficulty": 73.91,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:圆周角定理、垂径定理",
+      "synonyms": [
+        "圆周角性质",
+        "圆周角定理及其推论"
+      ],
+      "scope_note": "指圆周角与其所对弧、所对圆心角之间关系的定理性知识点。建议与其常见推论分开建模，避免把同弧所对圆周角相等、半圆所对圆周角是直角等全部混入单一节点而失去层级。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-393",
+      "label": "垂径定理",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "圆",
+      "knowledge_point": "垂径定理",
+      "stage_label": "Grade 9 semester 2",
+      "normalized_difficulty": 73.91,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:圆周角定理、垂径定理",
+      "synonyms": [
+        "垂径性质",
+        "垂径定理及其推论"
+      ],
+      "scope_note": "指圆中垂直于弦的直径与弦、弧关系的定理性知识点。建议注意与其逆命题、以及“平分弦”“平分弧”的判定型表述区分，必要时拆分为定理与逆定理或判定结论。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-396",
+      "label": "圆内接四边形的概念",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "圆",
+      "knowledge_point": "圆内接四边形的概念",
+      "stage_label": "Grade 9 semester 2",
+      "normalized_difficulty": 73.91,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:内接圆、外接圆、圆内接四边形",
+      "synonyms": [
+        "内接四边形",
+        "圆的内接四边形",
+        "圆周四边形"
+      ],
+      "scope_note": "建议作为独立节点保留。当前证据只支持“圆内接四边形”这一对象概念，不自动加入对角互补等性质或判定定理。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-399",
+      "label": "圆内接四边形的性质与判定",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "圆",
+      "knowledge_point": "圆内接四边形的性质与判定",
+      "stage_label": "Grade 9 semester 2",
+      "normalized_difficulty": 73.91,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:内接圆、外接圆、圆内接四边形",
+      "synonyms": [
+        "内接四边形",
+        "圆内接四边形",
+        "圆周四边形"
+      ],
+      "scope_note": "该节点可覆盖四边形四个顶点在同一圆上的定义，以及对角互补等常见性质与逆用判定；当前来源只显示名称，未核实是否同时要求定理证明、角度计算或综合题应用。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-403",
+      "label": "三角形内心的概念与作图依据",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "三角形",
+      "knowledge_point": "三角形内心的概念与作图依据",
+      "stage_label": "Grade 9 semester 2",
+      "normalized_difficulty": 73.91,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:三角形的内心、外心",
+      "synonyms": [
+        "三角形的内心",
+        "内心",
+        "角平分线交点"
+      ],
+      "scope_note": "聚焦三角形内心作为三角形三条角平分线的交点，以及据此进行识别或作图。由于当前来源仅给出合并标题，是否同时要求内切圆相关性质需人工复核。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-404",
+      "label": "三角形外心的概念与作图依据",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "三角形",
+      "knowledge_point": "三角形外心的概念与作图依据",
+      "stage_label": "Grade 9 semester 2",
+      "normalized_difficulty": 73.91,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:三角形的内心、外心",
+      "synonyms": [
+        "三角形的外心",
+        "外心",
+        "垂直平分线交点"
+      ],
+      "scope_note": "聚焦三角形外心作为三边垂直平分线的交点，以及据此进行识别或作图。由于当前来源仅给出合并标题，是否系统包含外接圆圆心及相关性质需人工复核。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-409",
+      "label": "直线与圆的位置关系的分类：相交、相离、相切",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "直线与圆的位置关系的分类：相交、相离、相切",
+      "stage_label": "Grade 9 semester 2",
+      "normalized_difficulty": 73.91,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:直线和圆的相交、相离、相切",
+      "synonyms": [
+        "直线和圆的位置关系",
+        "直线与圆的相交、相离、相切",
+        "直线与圆的位置关系分类"
+      ],
+      "scope_note": "聚焦于直线与圆之间位置关系的基本分类识别。当前来源仅能稳妥支持“相交、相离、相切”这一分类性知识点；是否包含基于圆心到直线距离与半径比较的判定、切线性质、作图或综合证明，需由教材或课标进一步核验。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-410",
+      "label": "直线与圆的位置关系分类：相交、相离、相切",
+      "type": "knowledge_point",
+      "domain": "几何",
+      "subfield": "图形的位置关系",
+      "knowledge_point": "直线与圆的位置关系分类：相交、相离、相切",
+      "stage_label": "Grade 9 semester 2",
+      "normalized_difficulty": 73.91,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:直线和圆的相交、相离、相切",
+      "synonyms": [
+        "直线与圆的相交、相离、相切",
+        "直线和圆的位置关系",
+        "直线与圆的位置关系"
+      ],
+      "scope_note": "聚焦直线与圆的基本位置关系分类，通常对应三类情形：相交、相离、相切。当前证据适合标注为位置关系识别与分类节点；是否进一步细分为“依据公共点个数判定”或“依据圆心到直线距离判定”需更多教材证据支持。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-414",
+      "label": "认识复式统计表并理解其用多项分类信息整理数据的作用",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "统计",
+      "knowledge_point": "认识复式统计表并理解其用多项分类信息整理数据的作用",
+      "stage_label": "Grade 3 semester 2",
+      "normalized_difficulty": 21.74,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:复式统计表的概念和基础运用",
+      "synonyms": [
+        "复式统计表的概念",
+        "认识复式统计表",
+        "复式统计表"
+      ],
+      "scope_note": "聚焦复式统计表的概念性认识，包括知道该类统计表能在同一张表中呈现两个分类维度下的数据。依据来源摘要，不扩展到复杂制表规范或统计推断。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-416",
+      "label": "认识复式统计表的结构与用途",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "统计",
+      "knowledge_point": "认识复式统计表的结构与用途",
+      "stage_label": "Grade 3 semester 2",
+      "normalized_difficulty": 21.74,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:复式统计表的概念和基础运用",
+      "synonyms": [
+        "复式统计表",
+        "双向统计表",
+        "两维分类统计表"
+      ],
+      "scope_note": "聚焦复式统计表这一统计表示形式的基本概念，包括按两个分类维度整理数据、理解行列对应的类别含义，以及知道其用于同时呈现两类分类信息。依据源标题可审计到“概念”层面，但未见更细教材证据，暂不扩展到制作步骤或复杂分析。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-418",
+      "label": "根据统计数据绘制条形统计图",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "统计",
+      "knowledge_point": "根据统计数据绘制条形统计图",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:条形统计图的绘制",
+      "synonyms": [
+        "条形统计图的绘制",
+        "绘制条形统计图",
+        "画条形统计图"
+      ],
+      "scope_note": "聚焦把整理好的数据用条形统计图表示，包括确定标题、横轴类别、纵轴刻度并按数据画出对应条形。不包含更广泛的统计图综合选择，也不默认包含复杂的数据分析结论。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-420",
+      "label": "求一组数据的平均数（算术平均数）",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "统计",
+      "knowledge_point": "求一组数据的平均数（算术平均数）",
+      "stage_label": "Grade 4 semester 2",
+      "normalized_difficulty": 30.43,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:求平均数",
+      "synonyms": [
+        "平均数",
+        "算术平均数",
+        "求平均数",
+        "求一组数据的平均数"
+      ],
+      "scope_note": "依据现有运行时图谱条目“求平均数”进行审校，建议细化为对一组数据求算术平均数，通常对应“总量÷份数”的统计含义。当前证据仅能支持该基础统计技能，不足以支持加权平均、平均速度或更一般的“平均分配”模型并入同一节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-421",
+      "label": "计算一组数据的平均数（总量÷数据个数）",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "统计",
+      "knowledge_point": "计算一组数据的平均数（总量÷数据个数）",
+      "stage_label": "Grade 4 semester 2",
+      "normalized_difficulty": 30.43,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:求平均数",
+      "synonyms": [
+        "求平均数",
+        "平均数的计算",
+        "计算平均数",
+        "求一组数据的平均数",
+        "算术平均数（初步）"
+      ],
+      "scope_note": "依据现有运行时图谱条目“求平均数”进行审校。建议细化为对一组数据求算术平均数的基础方法，适用于整数情境下通过“总量÷数据个数”求平均水平的入门性问题。当前证据不足以支持扩展到加权平均数、平均速度或统计量性质的系统学习。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-422",
+      "label": "条形统计图",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "统计",
+      "knowledge_point": "条形统计图",
+      "stage_label": "Grade 4 semester 2",
+      "normalized_difficulty": 30.43,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:条形统计图",
+      "synonyms": [
+        "条形图",
+        "柱状图"
+      ],
+      "scope_note": "依据来源可审计的最小节点为“条形统计图”这一统计表示主题。可覆盖对条形统计图的识别、基本读取与简单应用，但来源摘要未明确是否系统包含绘制要求、横式/纵式区分、以及‘1格表示多个单位’等扩展内容，暂不细分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-427",
+      "label": "用确定事件、不确定事件和不可能事件描述简单事件发生的情况",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "概率",
+      "knowledge_point": "用确定事件、不确定事件和不可能事件描述简单事件发生的情况",
+      "stage_label": "Grade 5 semester 1",
+      "normalized_difficulty": 34.78,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:可能性（确定性和不确定性、可能性的大小）",
+      "synonyms": [
+        "事件发生的确定性与不确定性",
+        "确定事件与不可能事件的识别",
+        "判断事件是否一定发生、可能发生或不可能发生"
+      ],
+      "scope_note": "聚焦对日常或简单操作情境中的事件进行定性分类，如一定会发生、可能发生、一定不会发生；不涉及正式概率数值计算。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-428",
+      "label": "比较简单事件发生可能性的大小并进行定性排序",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "概率",
+      "knowledge_point": "比较简单事件发生可能性的大小并进行定性排序",
+      "stage_label": "Grade 5 semester 1",
+      "normalized_difficulty": 34.78,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:可能性（确定性和不确定性、可能性的大小）",
+      "synonyms": [
+        "比较事件发生可能性的大小",
+        "可能性的大小比较",
+        "判断哪个事件更可能发生"
+      ],
+      "scope_note": "聚焦在简单、直观或可操作情境中比较谁更可能发生、谁可能性相同等，属于定性比较；不默认引入分数形式概率或系统化概率模型。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-433",
+      "label": "折线统计图的识读与根据数据绘制简单折线统计图",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "统计",
+      "knowledge_point": "折线统计图的识读与根据数据绘制简单折线统计图",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:折线统计图",
+      "synonyms": [
+        "单式折线统计图",
+        "折线图（统计）",
+        "线形统计图"
+      ],
+      "scope_note": "面向统计情境中的折线统计图，核心范围宜包括：根据横纵轴与数据点读取数量信息，理解折线反映的数据变化趋势，并能依据给定数据绘制简单折线统计图。该节点不应混同于几何中的一般“折线”图形概念；若课程实施中将“读图”和“画图”分设为不同可考能力，可进一步拆分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-434",
+      "label": "折线统计图",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "统计",
+      "knowledge_point": "折线统计图",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:折线统计图",
+      "synonyms": [
+        "折线统计图",
+        "折线图（统计）",
+        "单式折线统计图"
+      ],
+      "scope_note": "将折线统计图作为统计数据表示与解读的知识点进行登记。根据当前来源，只能稳妥确认该节点名称、所属领域路径与年级学期；是否同时系统要求学生绘制、比较不同折线统计图或分析变化趋势，现有证据不足，建议后续补充教材或课标依据后再细分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-435",
+      "label": "扇形统计图的认识与读取",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "统计",
+      "knowledge_point": "扇形统计图的认识与读取",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:扇形统计图",
+      "synonyms": [
+        "饼图",
+        "圆形统计图"
+      ],
+      "scope_note": "依据现有运行时图谱条目，节点应至少覆盖对扇形统计图的识别、根据图中各扇形所占整体比例读取信息、理解整体与部分关系。是否进一步包含制作扇形统计图、由百分数计算圆心角等操作，当前来源摘要未提供足够证据，建议后续人工核验范围。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-436",
+      "label": "扇形统计图",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "统计",
+      "knowledge_point": "扇形统计图",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:扇形统计图",
+      "synonyms": [
+        "饼图",
+        "圆形统计图"
+      ],
+      "scope_note": "Source evidence supports the chart-type concept named '扇形统计图' under statistics for Grade 6 semester 1. Operational scope such as reading, drawing, or using percentages to interpret part-whole relations is likely relevant to this chart type but is not explicitly documented in the supplied source summary and should be audited against fuller curriculum or textbook evidence."
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-437",
+      "label": "根据数据特点和表达目的选择合适的统计图",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "统计",
+      "knowledge_point": "根据数据特点和表达目的选择合适的统计图",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:选择合适的统计图",
+      "synonyms": [
+        "选择合适的统计图",
+        "根据需要选择统计图",
+        "按数据特点选用统计图",
+        "统计图的合理选用"
+      ],
+      "scope_note": "聚焦在已学统计图之间进行匹配与选择，如依据是否强调数量多少、数量变化趋势或部分与整体关系来判断使用哪类统计图；本节点强调“选图”这一应用能力，不等同于单独学习某一种统计图的定义或画法。由于来源仅给出节点标题，具体涵盖的统计图种类需结合同册课程结构人工复核。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-438",
+      "label": "根据数据特点与表达目的选择合适的统计图",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "统计",
+      "knowledge_point": "根据数据特点与表达目的选择合适的统计图",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:选择合适的统计图",
+      "synonyms": [
+        "选择合适的统计图",
+        "根据数据选择统计图",
+        "按统计目的选择统计图",
+        "统计图的合理选择"
+      ],
+      "scope_note": "聚焦在已学常见统计图之间进行选择，用于表达数量多少、数量变化趋势或部分与整体关系等不同目的；重点是“选图”这一方法性知识，而不是单独学习某一种统计图的画法或读图。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-448",
+      "label": "一组数据的中位数的确定与意义",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "统计",
+      "knowledge_point": "一组数据的中位数的确定与意义",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:中位数和众数和平均数",
+      "synonyms": [
+        "中位数",
+        "数据的中位数"
+      ],
+      "scope_note": "建议从合并条目中独立成节点。该节点聚焦将数据排序后确定中位数，并理解其作为反映数据集中趋势的统计量的基本作用。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-449",
+      "label": "一组数据的众数的确定与意义",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "统计",
+      "knowledge_point": "一组数据的众数的确定与意义",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:中位数和众数和平均数",
+      "synonyms": [
+        "众数",
+        "数据的众数"
+      ],
+      "scope_note": "建议从合并条目中独立成节点。该节点聚焦识别一组数据中出现次数最多的数据，并理解众数作为集中趋势量的基本意义。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-452",
+      "label": "用列举法求简单随机事件的概率",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "概率",
+      "knowledge_point": "用列举法求简单随机事件的概率",
+      "stage_label": "Grade 9 semester 1",
+      "normalized_difficulty": 69.57,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:例举法求概率、频率估计求概率",
+      "synonyms": [
+        "列举法求概率",
+        "枚举法求概率",
+        "用列举法计算概率"
+      ],
+      "scope_note": "指在等可能结果可枚举的情境中，先列出所有可能结果，再根据概率公式求事件概率。建议与“频率估计概率”拆分为独立节点，因为方法基础与适用条件不同。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-453",
+      "label": "用频率估计随机事件的概率",
+      "type": "knowledge_point",
+      "domain": "概率与统计",
+      "subfield": "概率",
+      "knowledge_point": "用频率估计随机事件的概率",
+      "stage_label": "Grade 9 semester 1",
+      "normalized_difficulty": 69.57,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:例举法求概率、频率估计求概率",
+      "synonyms": [
+        "频率估计概率",
+        "用频率估计概率",
+        "通过频率估计概率"
+      ],
+      "scope_note": "指通过重复试验获得事件发生频率，并用频率的稳定值对概率作估计。该节点强调实验估计思想，不等同于用公式精确计算概率。"
+    },
+    {
+      "id": "HKG-NODE-NODE-20-03",
+      "label": "20以内进位加法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "20以内进位加法",
+      "stage_label": "Grade 1 semester 1",
+      "normalized_difficulty": 0.0,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:二十以内进位加法、不退位减法",
+      "synonyms": [
+        "二十以内进位加法",
+        "20以内进位加法"
+      ],
+      "scope_note": "指和在20以内且计算过程中需要进位的加法。原始条目为并列复合表述，建议拆分为独立知识点以便建图与分层练习。"
+    },
+    {
+      "id": "HKG-NODE-NODE-20-04",
+      "label": "20以内不退位减法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "20以内不退位减法",
+      "stage_label": "Grade 1 semester 1",
+      "normalized_difficulty": 0.0,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:二十以内进位加法、不退位减法",
+      "synonyms": [
+        "二十以内不退位减法",
+        "20以内不退位减法"
+      ],
+      "scope_note": "指被减数与减数在20以内且计算过程中不需要退位的减法。原始条目为并列复合表述，建议拆分为独立知识点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-100-04",
+      "label": "100以内不进位加法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "100以内不进位加法",
+      "stage_label": "Grade 1 semester 2",
+      "normalized_difficulty": 4.35,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:一百以内数的认识和不进位不退位的加减法",
+      "synonyms": [
+        "一百以内不进位加法",
+        "100以内不进位加法",
+        "两位数不进位加法"
+      ],
+      "scope_note": "由原始合并节点中的“不进位不退位的加减法”拆分而来，限于100以内加法且各数位相加不产生进位。是否同时覆盖口算、笔算、竖式形式，当前证据不足。"
+    },
+    {
+      "id": "HKG-NODE-NODE-100-09",
+      "label": "100以内不进位加法与不退位减法的综合应用",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "100以内不进位加法与不退位减法的综合应用",
+      "stage_label": "Grade 1 semester 2",
+      "normalized_difficulty": 4.35,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:一百以内数的认识和不进位不退位的加减法",
+      "synonyms": [
+        "一百以内数的不进位不退位加减法",
+        "100以内不进位不退位的加减法"
+      ],
+      "scope_note": "保留原始运行图中的合并型知识点，用于兼容旧图谱路径；其教学上更适合作为上位聚合节点，而非最细粒度可教节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-100-12",
+      "label": "100以内进位加法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "100以内进位加法",
+      "stage_label": "Grade 2 semester 1",
+      "normalized_difficulty": 8.7,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:一百以内数涉及进位或退位的加减法",
+      "synonyms": [
+        "100以内进位加法",
+        "一百以内进位加法",
+        "两位数进位加法"
+      ],
+      "scope_note": "限于100以内整数加法，重点是个位相加满十需要向十位进1的笔算或口算方法。该节点从原合并表述中拆分出“进位加法”子范围，更利于与不进位加法、退位减法区分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-100-13",
+      "label": "100以内退位减法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "100以内退位减法",
+      "stage_label": "Grade 2 semester 1",
+      "normalized_difficulty": 8.7,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:一百以内数涉及进位或退位的加减法",
+      "synonyms": [
+        "100以内退位减法",
+        "一百以内退位减法",
+        "两位数退位减法"
+      ],
+      "scope_note": "限于100以内整数减法，重点是个位不够减需要从十位退1的笔算或口算方法。该节点从原合并表述中拆分出“退位减法”子范围，更利于与不退位减法、进位加法区分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-459",
+      "label": "表内乘法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "表内乘法",
+      "stage_label": "Grade 2 semester 1",
+      "normalized_difficulty": 8.7,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:表内乘法",
+      "synonyms": [
+        "乘法口诀",
+        "口诀乘法",
+        "表内乘法计算"
+      ],
+      "scope_note": "指乘法口诀表范围内的乘法计算学习，通常限于一位数乘法基本事实及其直接应用。当前来源仅能确认该节点作为二年级上册既有图谱条目存在，未提供更细的教材证据来界定是否包含乘法意义建模、乘法口诀记忆、口诀求积、乘加乘减混合应用等子范围。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-460",
+      "label": "表内乘法（乘法口诀范围内的乘法计算）",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "表内乘法（乘法口诀范围内的乘法计算）",
+      "stage_label": "Grade 2 semester 1",
+      "normalized_difficulty": 8.7,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:表内乘法",
+      "synonyms": [
+        "乘法口诀范围内的乘法",
+        "表内乘法计算",
+        "九九乘法范围内的乘法"
+      ],
+      "scope_note": "依据现有运行时图节点“表内乘法”进行审校。建议范围限定为乘法口诀表范围内的乘法事实与计算，不外推到多位数乘法或一般乘法意义的完整体系。是否包含口诀记忆、求积、看图列乘法算式等子技能，当前来源未明示，需人工确认。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-461",
+      "label": "表内除法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "表内除法",
+      "stage_label": "Grade 2 semester 2",
+      "normalized_difficulty": 13.04,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:表内除法（包括有余数的除法）",
+      "synonyms": [
+        "口诀除法",
+        "乘法口诀求商",
+        "表内除法计算"
+      ],
+      "scope_note": "指基于乘法口诀范围内的除法计算与应用。原始来源将其与“有余数的除法”合并记录，建议拆分为独立节点以避免把整除与有余数情形混为同一知识点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-462",
+      "label": "有余数的除法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "有余数的除法",
+      "stage_label": "Grade 2 semester 2",
+      "normalized_difficulty": 13.04,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:表内除法（包括有余数的除法）",
+      "synonyms": [
+        "除法有余数",
+        "带余数的除法"
+      ],
+      "scope_note": "指除法结果不能正好分完时，用商和余数表示结果的基础运算内容。该节点依据合并标题中的括注“包括有余数的除法”拆分得到。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-469",
+      "label": "认识质量单位克与千克",
+      "type": "knowledge_point",
+      "domain": "量与计量",
+      "subfield": "质量单位",
+      "knowledge_point": "认识质量单位克与千克",
+      "stage_label": "Grade 2 semester 2",
+      "normalized_difficulty": 13.04,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:克和千克的认识",
+      "synonyms": [
+        "克和千克的认识",
+        "认识克和千克",
+        "认识质量单位克和千克",
+        "克与千克的初步认识"
+      ],
+      "scope_note": "依据来源标题可稳定审计到的核心范围是对质量单位“克”“千克”的初步认识；不应自动扩展到单位换算、复杂计算或精密测量。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-472",
+      "label": "万以内的加减法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "万以内的加减法",
+      "stage_label": "Grade 3 semester 1",
+      "normalized_difficulty": 17.39,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:万以内的加减法",
+      "synonyms": [
+        "万以内加减法",
+        "10000以内的加减法"
+      ],
+      "scope_note": "按来源可确认这是三年级上册的整数加减运算主题，数值范围限定在万以内。仅凭当前摘要无法进一步确认是否系统区分口算、笔算、估算，或是否应拆分为进位加法、退位减法、连加连减等更细节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-475",
+      "label": "时、分、秒之间的单位换算",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "时、分、秒之间的单位换算",
+      "stage_label": "Grade 3 semester 1",
+      "normalized_difficulty": 17.39,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:时、分、秒的计算",
+      "synonyms": [
+        "时间单位换算",
+        "时分秒换算",
+        "时、分、秒的单位换算"
+      ],
+      "scope_note": "依据题名“时、分、秒的计算”可较稳妥审计出的细粒度内容之一是时间单位之间的简单换算，如1时=60分、1分=60秒及其直接应用。是否包含复杂情境题、跨天计算等，现有摘要不足以确认。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-477",
+      "label": "时、分、秒之间的单位换算与简单时间计算",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "时、分、秒之间的单位换算与简单时间计算",
+      "stage_label": "Grade 3 semester 1",
+      "normalized_difficulty": 17.39,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:时、分、秒的计算",
+      "synonyms": [
+        "时分秒的计算",
+        "时、分、秒的换算与计算",
+        "时间单位计算（时分秒）"
+      ],
+      "scope_note": "Based on the source title and summary, this node appears to cover arithmetic involving time units at the hour-minute-second level, including unit conversion and simple calculations. The exact boundary is not fully evidenced from the supplied source alone, so more specific subskills should be confirmed by textbook or standard review."
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-479",
+      "label": "倍的概念：理解一个数是另一个数的几倍",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "倍的概念：理解一个数是另一个数的几倍",
+      "stage_label": "Grade 3 semester 1",
+      "normalized_difficulty": 17.39,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:倍的认识和计算",
+      "synonyms": [
+        "倍的认识",
+        "几倍关系的理解",
+        "一个数是另一个数的几倍"
+      ],
+      "scope_note": "建议将原始合并节点中的“认识”部分细化为概念节点，聚焦两数之间的倍数关系识别与表述，如判断甲数是乙数的几倍。该节点不预设复杂应用题范围。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-480",
+      "label": "求一个数是另一个数的几倍的基础计算",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "求一个数是另一个数的几倍的基础计算",
+      "stage_label": "Grade 3 semester 1",
+      "normalized_difficulty": 17.39,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:倍的认识和计算",
+      "synonyms": [
+        "求几倍",
+        "求一个数是另一个数的几倍",
+        "倍关系的基础计算"
+      ],
+      "scope_note": "建议将原始合并节点中的“计算”部分细化为基础求倍计算，通常与除法意义相联系，用于求两数之间的倍数关系。仅标注基础计算，不扩展到比例、分数或复杂复合应用。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-488",
+      "label": "多位数乘一位数",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "多位数乘一位数",
+      "stage_label": "Grade 3 semester 1",
+      "normalized_difficulty": 17.39,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:多位数乘一位数",
+      "synonyms": [
+        "多位数乘1位数",
+        "多位数乘单个数字"
+      ],
+      "scope_note": "指整数范围内多位数与一位数的乘法计算这一核心运算主题。根据现有条目可确认其为三年级上册的系统学习内容，但当前来源未提供更细分范围，是否包含口算、笔算、估算、连续进位、应用题建模等子技能，需后续人工核验后再拆分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-489",
+      "label": "多位数乘一位数的笔算与口算",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "多位数乘一位数的笔算与口算",
+      "stage_label": "Grade 3 semester 1",
+      "normalized_difficulty": 17.39,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:多位数乘一位数",
+      "synonyms": [
+        "多位数乘以一位数",
+        "一位数乘多位数",
+        "多位数乘一位数计算"
+      ],
+      "scope_note": "指三年级上册系统学习的多位整数乘一位整数计算，通常包含口算与笔算、按位相乘及进位处理。当前来源只明确到标题级知识点，是否覆盖估算、应用题、因数末尾有0等子情形需人工复核。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-498",
+      "label": "计算同分母分数加法并理解只对分子相加、分母不变的直观理由",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "分数加减法",
+      "knowledge_point": "计算同分母分数加法并理解只对分子相加、分母不变的直观理由",
+      "stage_label": "Grade 3 semester 1",
+      "normalized_difficulty": 17.39,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:分数的认识和同分母分数的加减法",
+      "synonyms": [
+        "同分母分数加法",
+        "同分母分数相加",
+        "分母不变的分数加法"
+      ],
+      "scope_note": "依据标题中“同分母分数的加减法”拆分出的加法节点，限定于分母相同且通常结果在小学初学范围内；不包含异分母分数加法。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-499",
+      "label": "计算同分母分数减法并理解只对分子相减、分母不变的直观理由",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "分数加减法",
+      "knowledge_point": "计算同分母分数减法并理解只对分子相减、分母不变的直观理由",
+      "stage_label": "Grade 3 semester 1",
+      "normalized_difficulty": 17.39,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:分数的认识和同分母分数的加减法",
+      "synonyms": [
+        "同分母分数减法",
+        "同分母分数相减",
+        "分母不变的分数减法"
+      ],
+      "scope_note": "依据标题中“同分母分数的加减法”拆分出的减法节点，限定于同分母分数减法的初步计算与算理理解；不覆盖异分母减法。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-507",
+      "label": "除数是一位数的除法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "除数是一位数的除法",
+      "stage_label": "Grade 3 semester 2",
+      "normalized_difficulty": 21.74,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:除数是一位数的除法",
+      "synonyms": [
+        "一位数除法",
+        "除数为一位数的除法"
+      ],
+      "scope_note": "可审计到的核心范围仅为“除数是一位数的除法”这一主题级知识点。仅凭当前来源，无法可靠细分为口算、笔算、商中间有0、末尾有0、是否有余数、估算或应用题等子点，建议后续结合教材目录或课时说明再拆分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-510",
+      "label": "两位数乘两位数（整数乘法）",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "两位数乘两位数（整数乘法）",
+      "stage_label": "Grade 3 semester 2",
+      "normalized_difficulty": 21.74,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:两位数乘两位数",
+      "synonyms": [
+        "两位数乘两位数",
+        "两位数与两位数相乘",
+        "两位数乘以两位数",
+        "两位数×两位数"
+      ],
+      "scope_note": "指整数范围内两位数与两位数的乘法计算，通常包含口算估算支持下的笔算、部分积理解与进位处理。当前来源仅提供运行时图谱节点名，未给出教材页码或更细分任务边界；不应自动扩展到三位数乘两位数、小数乘法或因数末尾有0的专项算法，除非其他来源另有证据。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-511",
+      "label": "两位数乘两位数的整数乘法计算",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "两位数乘两位数的整数乘法计算",
+      "stage_label": "Grade 3 semester 2",
+      "normalized_difficulty": 21.74,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:两位数乘两位数",
+      "synonyms": [
+        "两位数与两位数相乘",
+        "两位数乘两位数计算"
+      ],
+      "scope_note": "依据来源标题与摘要，保守界定为两个两位整数相乘的计算知识点。可覆盖口算分解、估算或笔算等实现方式，但当前来源未明确具体算法范围，需人工确认是否应细分为“笔算两位数乘两位数”或保留为总括节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-521",
+      "label": "大整数的读法（数范围未指明）",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "整数读数",
+      "knowledge_point": "大整数的读法（数范围未指明）",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:大数的认识和读法",
+      "synonyms": [
+        "大数的读法",
+        "读大数"
+      ],
+      "scope_note": "依据来源标题，可审计到“大数的读法”这一技能；但未说明是否限定在某一计数单位范围，也未说明是否同时涵盖写法，建议与教材核对后决定是否拆分为独立读数规则节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-522",
+      "label": "“大数的认识和读法”作为合并单元标题，建议在图谱中标记为可拆分复合节点",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "整数认识",
+      "knowledge_point": "“大数的认识和读法”作为合并单元标题，建议在图谱中标记为可拆分复合节点",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:大数的认识和读法",
+      "synonyms": [
+        "大数的认识和读法"
+      ],
+      "scope_note": "该表述把“认识”与“读法”并列，适合作为单元标题或上位节点，但对教学实施与题目求解而言通常需要拆成至少两个知识点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-524",
+      "label": "三位数乘两位数",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "三位数乘两位数",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:三位数乘两位数",
+      "synonyms": [
+        "三位数乘以两位数",
+        "三位数×两位数"
+      ],
+      "scope_note": "指三位整数与两位整数相乘的计算内容。可作为多位数乘法中的一个具体练习层级；当前来源未明确是否只限笔算，也未明确是否包含估算、验算或应用题，应避免自动扩展范围。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-525",
+      "label": "三位数乘两位数的笔算乘法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "三位数乘两位数的笔算乘法",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:三位数乘两位数",
+      "synonyms": [
+        "三位数乘两位数",
+        "三位数与两位数相乘",
+        "三位数乘两位数的计算"
+      ],
+      "scope_note": "Based on the source title and existing graph path, this node is best scoped as multi-digit whole-number multiplication where a three-digit factor is multiplied by a two-digit factor, typically using the standard written algorithm and place-value alignment. The source evidence does not by itself confirm whether oral methods, estimation, error analysis, or application problems are included, so those should not be merged automatically."
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-527",
+      "label": "整数除法中除数是两位数的笔算除法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "整数除法中除数是两位数的笔算除法",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:除数是两位数的除法",
+      "synonyms": [
+        "除数是两位数的除法",
+        "两位数除数的除法",
+        "除数为两位数的笔算除法"
+      ],
+      "scope_note": "依据来源标题，可审计的核心范围是四年级上册对除数为两位整数的整数除法进行系统学习与求解，通常对应笔算流程与商的确定。来源未提供更细分步骤，因此暂不拆分到试商、调商、验算等子点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-528",
+      "label": "除数是两位数的除法（整数除法）",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "除数是两位数的除法（整数除法）",
+      "stage_label": "Grade 4 semester 1",
+      "normalized_difficulty": 26.09,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:除数是两位数的除法",
+      "synonyms": [
+        "除数为两位数的除法",
+        "两位数除法",
+        "两位数作除数的除法"
+      ],
+      "scope_note": "依据来源标题，核心范围应为被除数为整数、除数为两位整数的除法计算学习，通常对应笔算与试商类问题。当前来源未明确是否包含口算、估算、商不变规律辅助计算、带余数情形或应用题，建议后续按教材实证细化。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-531",
+      "label": "四则运算以及运算定律",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "四则运算以及运算定律",
+      "stage_label": "Grade 4 semester 2",
+      "normalized_difficulty": 30.43,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:四则运算以及运算定律",
+      "synonyms": [
+        "四则运算与运算定律"
+      ],
+      "scope_note": "保留现有运行时图谱中的合并节点，作为待拆分父级或占位节点使用。该表述范围过大，可能同时包含混合运算顺序、具体运算定律及其应用，建议后续在图谱中拆分为可教学、可测评的细粒度节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-534",
+      "label": "“四则运算以及运算定律”作为合并节点需拆分审计",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "“四则运算以及运算定律”作为合并节点需拆分审计",
+      "stage_label": "Grade 4 semester 2",
+      "normalized_difficulty": 30.43,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:四则运算以及运算定律",
+      "synonyms": [
+        "四则运算及运算定律",
+        "四则运算与运算定律"
+      ],
+      "scope_note": "该表述将“运算对象/过程”和“运算性质”合并为单一知识点，粒度偏粗。更适合作为目录级聚合节点，而非最终教学知识点节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-538",
+      "label": "小数的加减法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "小数的加减法",
+      "stage_label": "Grade 4 semester 2",
+      "normalized_difficulty": 30.43,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:小数的加减法",
+      "synonyms": [
+        "小数加减法",
+        "小数的加法和减法",
+        "小数加减"
+      ],
+      "scope_note": "对应四年级下册中以小数为对象的加法与减法运算主题。依据当前来源，只能稳定确认综合主题层级，不足以从本条证据单独拆分出更细的算法步骤、位值对齐规则或应用题类型。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-544",
+      "label": "小数乘除法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "小数乘除法",
+      "stage_label": "Grade 5 semester 1",
+      "normalized_difficulty": 34.78,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:小数乘除法",
+      "synonyms": [
+        "小数的乘法和除法",
+        "小数乘法与除法"
+      ],
+      "scope_note": "当前来源仅能确认这是五年级上册中的一个合并主题，范围指向小数乘法与小数除法的统称性学习主题；是否应在图谱中保留为复合节点，或拆分为更细的可教学节点，需要更多教材或课标证据。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-545",
+      "label": "分数的加法与减法运算",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "分数的加法与减法运算",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:分数的加减法",
+      "synonyms": [
+        "分数加减法",
+        "分数的加法和减法",
+        "分数加法与减法"
+      ],
+      "scope_note": "基于现有运行时图谱节点标题，范围可审计到“分数的加减法”这一总称性知识点。该节点宜作为分数加法与减法的统摄节点使用；是否进一步细分为同分母分数加减法、异分母分数加减法、带分数加减法、结果化简等子节点，当前来源证据不足，需人工复核教材或课标后决定。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-546",
+      "label": "分数的加减法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "分数的加减法",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:分数的加减法",
+      "synonyms": [
+        "分数加减法",
+        "分数的加法和减法"
+      ],
+      "scope_note": "该节点可作为聚合性知识点，覆盖分数加法与减法的计算学习范围。当前证据仅显示现有图节点名称，未能从来源中直接核实其是否明确细分为同分母、异分母或带分数情形。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-549",
+      "label": "分数的乘除法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "分数的乘除法",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:分数的乘除法",
+      "synonyms": [
+        "分数乘除法"
+      ],
+      "scope_note": "保留现有运行时图谱中的合并节点，表示六年级上册中围绕分数乘法与除法的统称性主题。该表面形式适合作为单元级或主题级节点，但对知识图谱而言可能过粗，建议与更细粒度节点并存或标记待拆分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-553",
+      "label": "分数乘法运算",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "分数乘法运算",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:分数的乘除法",
+      "synonyms": [
+        "分数乘法",
+        "分数的乘法"
+      ],
+      "scope_note": "从现有图谱条目“分数的乘除法”拆分出的细粒度节点之一，范围指分数与分数、整数与分数相关的乘法计算规则与求值；是否包含分数乘法应用题、约分技巧、带分数参与运算，需人工结合正式教材或课标核定。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-555",
+      "label": "折扣的含义与折扣和百分数的互化",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "折扣的含义与折扣和百分数的互化",
+      "stage_label": "Grade 6 semester 2",
+      "normalized_difficulty": 47.83,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:折扣、成数、税率、利率的认识与计算",
+      "synonyms": [
+        "打折的意义",
+        "几折与百分数的关系",
+        "折扣的认识"
+      ],
+      "scope_note": "聚焦商品打折情境中“几折”表示十分之几，也可转化为百分之几十；包含折扣的识别与简单换算，不单独覆盖税率或利率。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-560",
+      "label": "利率的含义与单利利息的简单计算",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "利率的含义与单利利息的简单计算",
+      "stage_label": "Grade 6 semester 2",
+      "normalized_difficulty": 47.83,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:折扣、成数、税率、利率的认识与计算",
+      "synonyms": [
+        "利率的认识",
+        "利息计算",
+        "本金利息问题"
+      ],
+      "scope_note": "聚焦本金、利率、时间与利息之间的基础关系，宜理解为小学阶段的简单利息计算，不涉及复利。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-572",
+      "label": "有理数混合运算顺序",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "有理数混合运算顺序",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:有理数的加减乘除乘方运算以及混合运算顺序",
+      "synonyms": [
+        "有理数的混合运算顺序",
+        "有理数混合运算",
+        "有理数四则与乘方混合运算顺序"
+      ],
+      "scope_note": "聚焦有理数范围内含加、减、乘、除、乘方的混合计算顺序规则，不直接泛化到含字母式或函数表达式的运算顺序。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-574",
+      "label": "有理数加法运算",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "有理数加法运算",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:有理数的加减乘除乘方运算以及混合运算顺序",
+      "synonyms": [
+        "有理数加法",
+        "有理数的加法运算"
+      ],
+      "scope_note": "聚焦有理数范围内的加法法则与计算，不含整式加法等后续代数对象的运算。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-580",
+      "label": "用科学计数法表示数",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "用科学计数法表示数",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:科学计数法",
+      "synonyms": [
+        "科学记数法",
+        "科学计数表示"
+      ],
+      "scope_note": "依据现有运行图条目“科学计数法”进行审计性补录。建议节点范围限定为：把一个数写成 a×10^n 的形式，其中 a 的绝对值通常满足 1≤|a|<10，n 为整数，并能在常见情境中进行普通写法与科学计数法之间的互化。由于源信息仅给出节点名，是否同时系统要求处理很小的数、负指数、有效数字或近似数规则，证据不足，宜由人工复核。"
+    },
+    {
+      "id": "HKG-NODE-NODE-A-10-N-1-A-10-N",
+      "label": "用a×10^n（1≤|a|<10，n为整数）表示较大或较小的数的科学计数法",
+      "type": "knowledge_point",
+      "domain": "算数",
+      "subfield": "基础运算",
+      "knowledge_point": "用a×10^n（1≤|a|<10，n为整数）表示较大或较小的数的科学计数法",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:科学计数法",
+      "synonyms": [
+        "科学记数法",
+        "科学计数法表示"
+      ],
+      "scope_note": "建议将该节点限定为科学计数法的表示规范与读写、以及普通十进制数与科学计数法之间的互化。若后续教材区分近似数、有效数字或数量级，应另设节点，不宜混入本节点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-1",
+      "label": "质数的概念：只有1和它本身两个正因数的自然数",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "合数与质数",
+      "knowledge_point": "质数的概念：只有1和它本身两个正因数的自然数",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:合数与质数的概念",
+      "synonyms": [
+        "素数的概念",
+        "质数定义",
+        "素数定义"
+      ],
+      "scope_note": "建议从合并节点中拆出“质数”的定义性知识点，用于判断一个自然数是否为质数。范围通常限于自然数情境，不应泛化到整数或其他数域。"
+    },
+    {
+      "id": "HKG-NODE-NODE-1-02",
+      "label": "合数的概念：除了1和它本身以外还有别的正因数的自然数",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "合数与质数",
+      "knowledge_point": "合数的概念：除了1和它本身以外还有别的正因数的自然数",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:合数与质数的概念",
+      "synonyms": [
+        "合数定义",
+        "判断合数"
+      ],
+      "scope_note": "建议从合并节点中拆出“合数”的定义性知识点，用于判断一个自然数是否为合数。范围通常限于自然数情境。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-587",
+      "label": "因数与倍数的概念（自然数范围内的整除关系）",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "因数与倍数",
+      "knowledge_point": "因数与倍数的概念（自然数范围内的整除关系）",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:因数与倍数的概念",
+      "synonyms": [
+        "因数和倍数的概念",
+        "因数与倍数",
+        "因数、倍数的意义"
+      ],
+      "scope_note": "围绕自然数的整除关系，建立“一个数是另一个数的因数/倍数”的基础定义与对应判断。适合作为后续找因数、找倍数、2/3/5 的倍数特征、质数与合数、公因数与公倍数等内容的前置节点。当前来源未提供更细教材语境，是否明确限定为非零自然数、是否包含“整除”术语表述，需人工复核。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-588",
+      "label": "整除关系中因数与倍数的基本概念",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "因数与倍数",
+      "knowledge_point": "整除关系中因数与倍数的基本概念",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:因数与倍数的概念",
+      "synonyms": [
+        "因数和倍数的概念",
+        "因数与倍数的意义",
+        "因数和倍数"
+      ],
+      "scope_note": "Covers the introductory meaning of 因数 and 倍数 as a paired relationship in divisibility contexts among whole numbers, suitable for identifying whether one number is a factor or multiple of another. This node should not automatically absorb later procedures such as finding all factors, finding multiples, prime factorization, common factors, common multiples, or divisibility tests unless those are separately evidenced."
+    },
+    {
+      "id": "HKG-NODE-NODE-2-03",
+      "label": "判断一个整数是否为2的倍数的末位特征",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "因数与倍数",
+      "knowledge_point": "判断一个整数是否为2的倍数的末位特征",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:2、3、5的倍数特征",
+      "synonyms": [
+        "2的倍数特征",
+        "2的整除特征",
+        "2的倍数判定",
+        "能否被2整除的特征"
+      ],
+      "scope_note": "限于用个位数字判断是否为2的倍数，通常与偶数判定直接相关；不扩展到形式化整除理论证明。"
+    },
+    {
+      "id": "HKG-NODE-NODE-5",
+      "label": "判断一个整数是否为5的倍数的末位特征",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "因数与倍数",
+      "knowledge_point": "判断一个整数是否为5的倍数的末位特征",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:2、3、5的倍数特征",
+      "synonyms": [
+        "5的倍数特征",
+        "5的整除特征",
+        "5的倍数判定",
+        "能否被5整除的特征"
+      ],
+      "scope_note": "限于用个位数字判断是否为5的倍数，通常表现为个位是0或5；不扩展到更一般的整除判定法。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-590",
+      "label": "真分数、假分数与带分数的识别与分类",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "分数",
+      "knowledge_point": "真分数、假分数与带分数的识别与分类",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:真分数、带分数、假分数等基本性质",
+      "synonyms": [
+        "真分数、假分数、带分数的认识",
+        "真分数假分数带分数的分类",
+        "分数类型辨认"
+      ],
+      "scope_note": "基于题名可稳定审计出的最小范围是三类分数的名称识别、外形特征与分类关系；不直接扩展到四则运算或复杂应用。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-592",
+      "label": "识别并分类真分数、假分数、带分数",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "分数",
+      "knowledge_point": "识别并分类真分数、假分数、带分数",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:真分数、带分数、假分数等基本性质",
+      "synonyms": [
+        "真分数、假分数、带分数的认识",
+        "真分数、假分数、带分数的分类"
+      ],
+      "scope_note": "依据来源标题与关键词，较稳妥的可审计范围是三类分数名称的辨认与分类；不直接外推到四则运算规则。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-596",
+      "label": "分数的约分",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "分数",
+      "knowledge_point": "分数的约分",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:约分、通分、分数和小数互化",
+      "synonyms": [
+        "约分",
+        "把分数化成最简分数",
+        "分数化简"
+      ],
+      "scope_note": "从给定来源中的并列条目“约分、通分、分数和小数互化”拆分得到。范围宜限定为把分数化成最简分数，以及利用分子分母同时除以公因数进行约分，不扩展到代数式化简。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-597",
+      "label": "分数的通分",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "分数",
+      "knowledge_point": "分数的通分",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:约分、通分、分数和小数互化",
+      "synonyms": [
+        "通分",
+        "把异分母分数化成同分母分数"
+      ],
+      "scope_note": "从来源中的并列条目拆分得到。范围宜限定为把几个异分母分数化为同分母分数，通常服务于比较大小和分数加减运算前准备；不泛化为其他“同分母化”表述。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-603",
+      "label": "分数大小比较",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "分数",
+      "knowledge_point": "分数大小比较",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:分数的大小比较和化简",
+      "synonyms": [
+        "分数比大小",
+        "比较分数的大小"
+      ],
+      "scope_note": "聚焦真分数、假分数或带分数之间的大小比较方法，可包括同分母、同分子以及借助通分或与1比较等常见策略。该节点对应原始合并表述中的“分数的大小比较”部分，宜与“化简/约分”拆分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-604",
+      "label": "分数约分与化简",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "分数",
+      "knowledge_point": "分数约分与化简",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:分数的大小比较和化简",
+      "synonyms": [
+        "分数化简",
+        "分数约分",
+        "把分数化成最简分数"
+      ],
+      "scope_note": "聚焦把分数化为较简形式，核心操作通常是约分，并可落实到最简分数。该节点对应原始合并表述中的“化简”部分；“化简”表面词过宽，建议在节点名中保留“约分与化简”以减轻歧义。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-612",
+      "label": "判断两个自然数是否互质的方法",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "互质和最大公因数",
+      "knowledge_point": "判断两个自然数是否互质的方法",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:互质的判断方法",
+      "synonyms": [
+        "互质的判断方法",
+        "判断两个数是否互质",
+        "两个数互质的判定"
+      ],
+      "scope_note": "聚焦于两个自然数是否互质的判定，通常与“公因数只有1”或“最大公因数是1”的理解相关；不应泛化为单个数的性质，也不应扩展到更高阶段的整式或更抽象对象的互素性。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-613",
+      "label": "判断两个自然数是否互质",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "互质和最大公因数",
+      "knowledge_point": "判断两个自然数是否互质",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:互质的判断方法",
+      "synonyms": [
+        "互质的判断方法",
+        "判断两个数是否互质",
+        "判断两个自然数是否互质",
+        "互素的判断"
+      ],
+      "scope_note": "聚焦“互质的判断方法”这一可教学点，范围应为依据公因数关系判断两个自然数是否互质。当前人工审计来源仅提供节点标题与图谱路径，未给出教材展开细则；是否细分为若干具体判断法则需后续核验。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-614",
+      "label": "求两个或几个自然数的最大公因数",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "互质和最大公因数",
+      "knowledge_point": "求两个或几个自然数的最大公因数",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:求最大公因数、提取最大公因数",
+      "synonyms": [
+        "求最大公因数",
+        "找最大公因数",
+        "最大公因数的求法"
+      ],
+      "scope_note": "对应现有图谱词条中的“求最大公因数”部分，范围宜限定为在小学阶段求自然数的最大公因数，用于约分、判断互质或相关应用题；不应泛化到整数、多项式或欧几里得算法的形式化证明。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-616",
+      "label": "求两个或几个数的最大公因数",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "互质和最大公因数",
+      "knowledge_point": "求两个或几个数的最大公因数",
+      "stage_label": "Grade 5 semester 2",
+      "normalized_difficulty": 39.13,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:求最大公因数、提取最大公因数",
+      "synonyms": [
+        "求最大公因数",
+        "找最大公因数"
+      ],
+      "scope_note": "聚焦把两个或几个自然数的公因数中最大的一个求出来，通常包含列举因数等基础方法。该节点应与“最大公因数的概念”区分，也应与“利用分解质因数法求最大公因数”等更细方法型节点按需要拆分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-620",
+      "label": "百分数与小数的互化",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "百分数",
+      "knowledge_point": "百分数与小数的互化",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:百分数与分数、小数的互化",
+      "synonyms": [
+        "百分数和小数的互化",
+        "百分数与小数互化",
+        "小数化成百分数与百分数化成小数"
+      ],
+      "scope_note": "聚焦百分数与小数之间的双向转换，包括把小数改写成百分数、把百分数改写成小数。该节点不直接覆盖百分数应用题中的增长率、折扣、税率等情境求解。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-621",
+      "label": "百分数与分数的互化",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "百分数",
+      "knowledge_point": "百分数与分数的互化",
+      "stage_label": "Grade 6 semester 1",
+      "normalized_difficulty": 43.48,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:百分数与分数、小数的互化",
+      "synonyms": [
+        "百分数和分数的互化",
+        "百分数与分数互化",
+        "分数化成百分数与百分数化成分数"
+      ],
+      "scope_note": "聚焦百分数与分数之间的双向转换，包括把分数改写成百分数、把百分数改写成分数。应与最简分数化简、分数四则运算等相邻知识区分。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-627",
+      "label": "比较包含负数的两个数的大小",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "负数",
+      "knowledge_point": "比较包含负数的两个数的大小",
+      "stage_label": "Grade 6 semester 2",
+      "normalized_difficulty": 47.83,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:负数的认识与计算、两数大小的比较",
+      "synonyms": [
+        "两数大小比较（含负数）",
+        "正负数大小比较",
+        "负数大小比较"
+      ],
+      "scope_note": "可审计对应标题中的“两数大小的比较”。建议理解为在正数、0、负数范围内比较两个数的大小，可借助数轴或大小规律；不应泛化为任意实数比较。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-630",
+      "label": "含负数的两数大小比较",
+      "type": "knowledge_point",
+      "domain": "数与代数",
+      "subfield": "负数",
+      "knowledge_point": "含负数的两数大小比较",
+      "stage_label": "Grade 6 semester 2",
+      "normalized_difficulty": 47.83,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:负数的认识与计算、两数大小的比较",
+      "synonyms": [
+        "两数大小的比较",
+        "负数大小比较",
+        "正负数大小比较"
+      ],
+      "scope_note": "由来源标题中的“两数大小的比较”结合负数主题提出。建议范围限定为正数、负数与0之间，以及两个负数之间的大小比较；不泛化为所有实数比较。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-634",
+      "label": "有理数的概念与分类",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "有理数、相反数、绝对值",
+      "knowledge_point": "有理数的概念与分类",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:有理数、相反数、绝对值的概念",
+      "synonyms": [
+        "有理数的概念",
+        "有理数的认识",
+        "有理数的定义与分类"
+      ],
+      "scope_note": "建议将合并条目拆分。该节点聚焦于有理数的定义、正有理数/负有理数/零的归类，以及整数与分数统一到有理数范围内的初始认识；不直接包含相反数运算规则或绝对值性质。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-637",
+      "label": "有理数的概念",
+      "type": "knowledge_point",
+      "domain": "数论",
+      "subfield": "有理数、相反数、绝对值",
+      "knowledge_point": "有理数的概念",
+      "stage_label": "Grade 7 semester 1",
+      "normalized_difficulty": 52.17,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:有理数、相反数、绝对值的概念",
+      "synonyms": [
+        "有理数概念",
+        "有理数的定义",
+        "认识有理数"
+      ],
+      "scope_note": "指对有理数这一数集的初步定义性认识与识别，宜与后续的有理数分类、大小比较、运算分开建点。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-640",
+      "label": "根据颜色或形状的有序排列识别并续接简单重复规律",
+      "type": "knowledge_point",
+      "domain": "数理逻辑",
+      "subfield": "找规律",
+      "knowledge_point": "根据颜色或形状的有序排列识别并续接简单重复规律",
+      "stage_label": "Grade 1 semester 2",
+      "normalized_difficulty": 4.35,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:通过数字变化、颜色、形状找规律",
+      "synonyms": [
+        "按颜色和形状找规律",
+        "看图形和颜色找规律",
+        "图形排列规律"
+      ],
+      "scope_note": "聚焦以颜色、形状等直观属性构成的简单序列规律识别与续接，适合一年级下册常见的图形排序任务。该节点不应泛化到复杂周期、多重条件叠加或抽象函数规律。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-643",
+      "label": "根据颜色或形状的重复与变化识别并续接简单规律",
+      "type": "knowledge_point",
+      "domain": "数理逻辑",
+      "subfield": "找规律",
+      "knowledge_point": "根据颜色或形状的重复与变化识别并续接简单规律",
+      "stage_label": "Grade 1 semester 2",
+      "normalized_difficulty": 4.35,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:通过数字变化、颜色、形状找规律",
+      "synonyms": [
+        "按颜色找规律",
+        "按形状找规律",
+        "根据颜色和形状找规律",
+        "图形规律续接"
+      ],
+      "scope_note": "聚焦一年级下册常见的直观规律活动，依据颜色、形状等外显属性识别重复或交替排列，并进行续接、补全或判断下一项。不扩展到复杂图形变换或抽象函数规律。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-647",
+      "label": "互逆命题的概念",
+      "type": "knowledge_point",
+      "domain": "数理逻辑",
+      "subfield": "互逆命题",
+      "knowledge_point": "互逆命题的概念",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:互逆命题的概与判断",
+      "synonyms": [
+        "互逆命题的定义",
+        "互为逆命题的概念"
+      ],
+      "scope_note": "聚焦于识别一对命题是否互为逆命题所需的基础概念，不外推到更广的充分条件、必要条件或逆否命题系统训练。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-648",
+      "label": "判断两个命题是否互为逆命题",
+      "type": "knowledge_point",
+      "domain": "数理逻辑",
+      "subfield": "互逆命题",
+      "knowledge_point": "判断两个命题是否互为逆命题",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:互逆命题的概与判断",
+      "synonyms": [
+        "互逆命题的判断",
+        "判断互为逆命题",
+        "识别互逆命题"
+      ],
+      "scope_note": "聚焦于识别与判定：给定两个命题，能判断它们是否通过交换条件与结论而互为逆命题。此处不默认包含真假性比较，也不默认包含逆否命题相关推理。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-651",
+      "label": "互逆命题的概念",
+      "type": "knowledge_point",
+      "domain": "离散数学",
+      "subfield": "逻辑、量词",
+      "knowledge_point": "互逆命题的概念",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:互逆命题的概念与判断",
+      "synonyms": [
+        "互为逆命题",
+        "逆命题关系"
+      ],
+      "scope_note": "聚焦于两个命题互为逆命题这一关系性概念，通常对应在一个命题的条件与结论交换后得到另一个命题。适合与具体命题改写区分，不扩展到逆否命题、否命题的系统比较，除非该单元另有明确证据。"
+    },
+    {
+      "id": "HKG-NODE-NODE-NODE-653",
+      "label": "互逆命题的概念与判断",
+      "type": "knowledge_point",
+      "domain": "离散数学",
+      "subfield": "逻辑、量词",
+      "knowledge_point": "互逆命题的概念与判断",
+      "stage_label": "Grade 8 semester 2",
+      "normalized_difficulty": 65.22,
+      "source_type": "manual_audit",
+      "source_reference": "src/open_r1/knowledge_base_graph57.json:互逆命题的概念与判断",
+      "synonyms": [
+        "互为逆命题的判断",
+        "互逆命题的判定",
+        "逆命题关系的判断"
+      ],
+      "scope_note": "围绕条件命题相关术语，理解“两个命题互为逆命题”的关系，并能根据命题的条件与结论位置变化判断一对命题是否互逆。该节点应限定为概念辨析与关系判断，不自动扩展到逆否命题、命题真假性证明或充分必要条件的系统推理，除非教材同处明确合并教学。"
+    }
+  ],
+  "links": [
+    {
+      "source": "DOMAIN-NODE",
+      "target": "SUBFIELD-NODE-NODE",
+      "edge_type": "domain_to_subfield"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-03",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-05",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-06",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-0",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-07",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-08",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-13",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-14",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-16",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-21",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-27",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-28",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-31",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-33",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-38",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-45",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-47",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-49",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-52",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-58",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-65",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-76",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-77",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-85",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-86",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-90",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-93",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-98",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-100",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-102",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-104",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-108",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-109",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-Y-KX-B-B-0-Y-KX",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-Y-KX-B-B-0",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-110",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-111",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-Y-AX-2-BX-C-A-0",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-Y-AX-BX-C-A-0",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-123",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-124",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-130",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-131",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-133",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-134",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-136",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-140",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-148",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-149",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-153",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-154",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-162",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-163",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-100",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-100-02",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-166",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-167",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-172",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-175",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-177",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-179",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-183",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-188",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-191",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-192",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-180",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-180-02",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-211",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-212",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-222",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-223",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-232",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-238",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-240",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-241",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-250",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-251",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-258",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-259",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-260",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-265",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-269",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-273",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-279",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-280",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-284",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-288",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-289",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-292",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-294",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-295",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-301",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-302",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-304",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-305",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-306",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-X-Y",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-X-Y-03",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-326",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-327",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-331",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-333",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-335",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-339",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-342",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-346",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-348",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-352",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-353",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-357",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-358",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-360",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-370",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-375",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-376",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-382",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-383",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-389",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-390",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-392",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-393",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-396",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-399",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-403",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-404",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-409",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-410",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-414",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-416",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-418",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-420",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-421",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-422",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-427",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-428",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-433",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-434",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-435",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-436",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-437",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-438",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-448",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-449",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-452",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-453",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-20-03",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-20-04",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-100-04",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-100-09",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-100-12",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-100-13",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-459",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-460",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-461",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-462",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-469",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-472",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-475",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-477",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-479",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-480",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-488",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-489",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-498",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-499",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-507",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-510",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-511",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-521",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-522",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-524",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-525",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-527",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-528",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-531",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-534",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-538",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-544",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-545",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-546",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-549",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-553",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-555",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-560",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-572",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-574",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-580",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-A-10-N-1-A-10-N",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-1",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-1-02",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-587",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-588",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-2-03",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-5",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-590",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-592",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-596",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-597",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-603",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-604",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-612",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-613",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-614",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-616",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-620",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-621",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-627",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-630",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-634",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-637",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-640",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-643",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-647",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-648",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-651",
+      "edge_type": "subfield_to_knowledge_point"
+    },
+    {
+      "source": "SUBFIELD-NODE-NODE",
+      "target": "HKG-NODE-NODE-NODE-653",
+      "edge_type": "subfield_to_knowledge_point"
+    }
+  ]
+}

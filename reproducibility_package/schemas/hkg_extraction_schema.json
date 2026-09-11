@@ -1,0 +1,66 @@
+{
+  "type": "object",
+  "required": ["used_nodes", "unmatched_concepts", "requires_manual_review"],
+  "properties": {
+    "used_nodes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "node_id",
+          "domain",
+          "subfield",
+          "knowledge_point",
+          "evidence",
+          "role",
+          "gate_scores",
+          "decision_source",
+          "confidence"
+        ],
+        "properties": {
+          "node_id": {"type": "string"},
+          "domain": {"type": "string"},
+          "subfield": {"type": "string"},
+          "knowledge_point": {"type": "string"},
+          "evidence": {"type": "string"},
+          "role": {"type": "string", "enum": ["central", "supporting", "incidental"]},
+          "gate_scores": {
+            "type": "object",
+            "required": ["role", "node_identity", "stage", "evidence"],
+            "properties": {
+              "role": {"type": "number", "minimum": 0, "maximum": 1},
+              "node_identity": {"type": "number", "minimum": 0, "maximum": 1},
+              "stage": {"type": "number", "minimum": 0, "maximum": 1},
+              "evidence": {"type": "number", "minimum": 0, "maximum": 1}
+            }
+          },
+          "decision_source": {
+            "type": "string",
+            "enum": ["deterministic_accept", "llm_fallback"]
+          },
+          "confidence": {"type": "number", "minimum": 0, "maximum": 1}
+        }
+      }
+    },
+    "unmatched_concepts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["concept", "evidence", "reason", "decision_source"],
+        "properties": {
+          "concept": {"type": "string"},
+          "evidence": {"type": "string"},
+          "reason": {
+            "type": "string",
+            "enum": ["not in HKG", "ambiguous", "insufficient evidence"]
+          },
+          "decision_source": {
+            "type": "string",
+            "enum": ["deterministic_reject", "low_score_discard", "llm_fallback"]
+          }
+        }
+      }
+    },
+    "requires_manual_review": {"type": "boolean"}
+  }
+}

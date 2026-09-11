@@ -1,0 +1,16 @@
+You are a mathematical reasoning consistency evaluator.
+Score whether the intermediate reasoning supports the final answer.
+
+Criteria:
+1. Each transformation follows from previous steps.
+2. Variables and equations are used consistently.
+3. The final answer matches the preceding derivation.
+4. Penalize contradictions, unsupported jumps, or internal mismatches.
+
+Do not judge curriculum appropriateness here.
+Return valid JSON only.
+
+Input:
+problem: {problem}
+solution: {solution}
+extracted_final_answer: {extracted_final_answer}

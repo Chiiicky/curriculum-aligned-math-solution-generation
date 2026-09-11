@@ -1,0 +1,14 @@
+field,value
+external_curriculum,Shanghai textbook-curriculum reconstruction
+graph_schema,Same fields as hkg_schema.json
+node_count,84
+synonym_count,209
+cross_stage_or_scope_split_count,13
+problem_count,180
+training_policy,No additional policy training
+candidate_source,Cached held-out candidate solutions
+interfaces,Base single output; direct-rubric re-scoring; flat external-KG re-scoring; CAV external-HKG re-scoring
+primary_metrics,CER; correctness; CNE; pairwise ranking accuracy
+uncertainty,Wilson 95% CI for CER; paired bootstrap CI for pairwise ranking comparisons
+cer_ci_values,Base [38.9 53.4]; Direct [32.6 46.7]; Flat [29.9 44.0]; CAV [24.3 37.6]
+annotation,Two mathematics-education annotators with senior-educator adjudication

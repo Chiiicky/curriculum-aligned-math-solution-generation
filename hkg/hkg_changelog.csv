@@ -1,0 +1,2 @@
+hkg_version,freeze_stage,freeze_commit,edit_time,change_type,target,change_summary,status
+HKG-HZ-v1.0,release-freeze,manual-upload-no-git-commit,2026-06-04T16:24:50+08:00,freeze,hkg release files,"Frozen HKG release with 216 nodes, 1057 synonym rows, 4 cross-stage split records, and 38 ambiguous-form records.",frozen

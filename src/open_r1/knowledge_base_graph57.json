@@ -1,0 +1,2043 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "root"
+        },
+        {
+            "id": "代数"
+        },
+        {
+            "id": "方程"
+        },
+        {
+            "grade": "五年级上册",
+            "id": "一元一次方程",
+            "difficulty_score": 34.782609
+        },
+        {
+            "id": "比和比例"
+        },
+        {
+            "grade": "六年级上册",
+            "id": "比的意义",
+            "difficulty_score": 43.478261
+        },
+        {
+            "grade": "六年级上册",
+            "id": "比的基本性质",
+            "difficulty_score": 43.478261
+        },
+        {
+            "grade": "六年级上册",
+            "id": "按比例分配问题",
+            "difficulty_score": 43.478261
+        },
+        {
+            "grade": "六年级上册",
+            "id": "正比例与反比例",
+            "difficulty_score": 43.478261
+        },
+        {
+            "grade": "六年级上册",
+            "id": "比例的应用（比例尺、图形的放大缩小等）",
+            "difficulty_score": 43.478261
+        },
+        {
+            "id": "整式"
+        },
+        {
+            "grade": "七年级上册",
+            "id": "单项式的概念、系数、次数",
+            "difficulty_score": 52.173913
+        },
+        {
+            "grade": "七年级上册",
+            "id": "多项式的概念、项、次数",
+            "difficulty_score": 52.173913
+        },
+        {
+            "grade": "七年级上册",
+            "id": "整式的概念、书写",
+            "difficulty_score": 52.173913
+        },
+        {
+            "grade": "七年级上册",
+            "id": "同类项与合并同类项、去括号",
+            "difficulty_score": 52.173913
+        },
+        {
+            "grade": "七年级下册",
+            "id": "二元一次方程组及其求解",
+            "difficulty_score": 56.521739
+        },
+        {
+            "grade": "七年级下册",
+            "id": "不等式与一元一次不等式组",
+            "difficulty_score": 56.521739
+        },
+        {
+            "grade": "七年级下册",
+            "id": "三元一次方程组的解法",
+            "difficulty_score": 56.521739
+        },
+        {
+            "grade": "三年级上册",
+            "id": "平方与立方的基础概念",
+            "difficulty_score": 17.391304
+        },
+        {
+            "grade": "八年级上册",
+            "id": "整式的乘除与分解因式",
+            "difficulty_score": 60.869565
+        },
+        {
+            "id": "分式"
+        },
+        {
+            "grade": "八年级上册",
+            "id": "概念与运算",
+            "difficulty_score": 60.869565
+        },
+        {
+            "grade": "八年级上册",
+            "id": "约分、通分、最简分式",
+            "difficulty_score": 60.869565
+        },
+        {
+            "grade": "八年级上册",
+            "id": "分式方程及其求解",
+            "difficulty_score": 60.869565
+        },
+        {
+            "id": "根式"
+        },
+        {
+            "grade": "八年级下册",
+            "id": "二次根式及其运算",
+            "difficulty_score": 65.217391
+        },
+        {
+            "id": "函数"
+        },
+        {
+            "grade": "八年级下册",
+            "id": "一次函数及其图像",
+            "difficulty_score": 65.217391
+        },
+        {
+            "grade": "八年级下册",
+            "id": "正比例函数",
+            "difficulty_score": 65.217391
+        },
+        {
+            "grade": "八年级下册",
+            "id": "一次函数与正比例函数的关系",
+            "difficulty_score": 65.217391
+        },
+        {
+            "grade": "九年级上册",
+            "id": "一元二次方程求解",
+            "difficulty_score": 69.565217
+        },
+        {
+            "grade": "九年级上册",
+            "id": "一元二次函数及其图像",
+            "difficulty_score": 69.565217
+        },
+        {
+            "grade": "九年级上册",
+            "id": "一元二次函数的图像性质",
+            "difficulty_score": 69.565217
+        },
+        {
+            "grade": "九年级下册",
+            "id": "三角函数",
+            "difficulty_score": 73.913043
+        },
+        {
+            "grade": "九年级下册",
+            "id": "抛物线、二次函数及其对称轴、开口方向的求解",
+            "difficulty_score": 73.913043
+        },
+        {
+            "grade": "九年级下册",
+            "id": "二次函数的增减性",
+            "difficulty_score": 73.913043
+        },
+        {
+            "id": "几何"
+        },
+        {
+            "id": "基本图形的认识"
+        },
+        {
+            "grade": "一年级上册",
+            "id": "区分长方体、正方体、圆柱体、球",
+            "difficulty_score": 0.0
+        },
+        {
+            "grade": "一年级下册",
+            "id": "图形的拼接",
+            "difficulty_score": 4.347826
+        },
+        {
+            "id": "角"
+        },
+        {
+            "grade": "二年级上册",
+            "id": "角的初步认识",
+            "difficulty_score": 8.695652
+        },
+        {
+            "grade": "二年级上册",
+            "id": "认识钟面时间",
+            "difficulty_score": 8.695652
+        },
+        {
+            "id": "图形的位置关系"
+        },
+        {
+            "grade": "二年级下册",
+            "id": "轴对称、平移、旋转的概念与认识",
+            "difficulty_score": 13.043478
+        },
+        {
+            "id": "周长和面积"
+        },
+        {
+            "grade": "三年级上册",
+            "id": "正方形和长方形的周长计算",
+            "difficulty_score": 17.391304
+        },
+        {
+            "grade": "三年级下册",
+            "id": "正方形和长方形的面积计算",
+            "difficulty_score": 21.73913
+        },
+        {
+            "grade": "三年级下册",
+            "id": "面积单位之间的进率",
+            "difficulty_score": 21.73913
+        },
+        {
+            "grade": "三年级下册",
+            "id": "常用的面积单位",
+            "difficulty_score": 21.73913
+        },
+        {
+            "grade": "四年级上册",
+            "id": "公顷和平方千米的认识和转换",
+            "difficulty_score": 26.086957
+        },
+        {
+            "grade": "四年级上册",
+            "id": "角的度量和分类（锐角、钝角等）",
+            "difficulty_score": 26.086957
+        },
+        {
+            "grade": "四年级上册",
+            "id": "四边形和梯形",
+            "difficulty_score": 26.086957
+        },
+        {
+            "grade": "四年级上册",
+            "id": "平行于垂直",
+            "difficulty_score": 26.086957
+        },
+        {
+            "grade": "四年级下册",
+            "id": "三角形的特性、分类、内角和",
+            "difficulty_score": 30.434783
+        },
+        {
+            "grade": "四年级下册",
+            "id": "轴对称、平移、旋转的判断与利用",
+            "difficulty_score": 30.434783
+        },
+        {
+            "grade": "五年级上册",
+            "id": "多边形面积（平行四边形、三角形、梯形、组合图形）",
+            "difficulty_score": 34.782609
+        },
+        {
+            "grade": "五年级下册",
+            "id": "长方体和正方体的认识以及表面积体积计算",
+            "difficulty_score": 39.130435
+        },
+        {
+            "grade": "六年级上册",
+            "id": "圆的认识（圆心、半径、直径）",
+            "difficulty_score": 43.478261
+        },
+        {
+            "grade": "六年级上册",
+            "id": "圆的周长与面积",
+            "difficulty_score": 43.478261
+        },
+        {
+            "grade": "六年级上册",
+            "id": "圆环的面积",
+            "difficulty_score": 43.478261
+        },
+        {
+            "grade": "六年级上册",
+            "id": "扇形的认识与面积",
+            "difficulty_score": 43.478261
+        },
+        {
+            "id": "数轴与坐标系"
+        },
+        {
+            "grade": "六年级下册",
+            "id": "数轴的认识",
+            "difficulty_score": 47.826087
+        },
+        {
+            "grade": "六年级下册",
+            "id": "圆柱与圆锥的认识（特征、切割）",
+            "difficulty_score": 47.826087
+        },
+        {
+            "grade": "六年级下册",
+            "id": "圆柱与圆锥的表面积、体积计算",
+            "difficulty_score": 47.826087
+        },
+        {
+            "grade": "七年级上册",
+            "id": "直线，射线与线段的区别与联系",
+            "difficulty_score": 52.173913
+        },
+        {
+            "grade": "七年级上册",
+            "id": "角互余互补的有关计算、方位角",
+            "difficulty_score": 52.173913
+        },
+        {
+            "grade": "七年级上册",
+            "id": "立体图形展开平面图",
+            "difficulty_score": 52.173913
+        },
+        {
+            "grade": "七年级下册",
+            "id": "相交线与平行线",
+            "difficulty_score": 56.521739
+        },
+        {
+            "grade": "七年级下册",
+            "id": "点到直线的距离",
+            "difficulty_score": 56.521739
+        },
+        {
+            "grade": "七年级下册",
+            "id": "同位角、内错角、同旁内角",
+            "difficulty_score": 56.521739
+        },
+        {
+            "grade": "七年级下册",
+            "id": "平面直角坐标系（象限、点到坐标轴的距离、对称点）",
+            "difficulty_score": 56.521739
+        },
+        {
+            "grade": "七年级下册",
+            "id": "坐标系内求面积",
+            "difficulty_score": 56.521739
+        },
+        {
+            "grade": "七年级下册",
+            "id": "中点坐标公式",
+            "difficulty_score": 56.521739
+        },
+        {
+            "grade": "七年级下册",
+            "id": "三角形三边关系、边长",
+            "difficulty_score": 56.521739
+        },
+        {
+            "grade": "七年级下册",
+            "id": "多边形及其内角和、外角和",
+            "difficulty_score": 56.521739
+        },
+        {
+            "grade": "七年级下册",
+            "id": "三角形的外角及其性质",
+            "difficulty_score": 56.521739
+        },
+        {
+            "id": "三角形"
+        },
+        {
+            "grade": "八年级上册",
+            "id": "三角形的全等与相似",
+            "difficulty_score": 60.869565
+        },
+        {
+            "id": "多边形"
+        },
+        {
+            "grade": "八年级上册",
+            "id": "多边形的内角、外角",
+            "difficulty_score": 60.869565
+        },
+        {
+            "grade": "八年级上册",
+            "id": "股定理与勾股定理逆定理",
+            "difficulty_score": 60.869565
+        },
+        {
+            "grade": "八年级下册",
+            "id": "平行四边形与三角形结合的较为复杂的运算",
+            "difficulty_score": 65.217391
+        },
+        {
+            "id": "圆"
+        },
+        {
+            "grade": "九年级上册",
+            "id": "正多边形和圆",
+            "difficulty_score": 69.565217
+        },
+        {
+            "grade": "九年级上册",
+            "id": "圆心角、弧",
+            "difficulty_score": 69.565217
+        },
+        {
+            "grade": "九年级上册",
+            "id": "点、圆、直线和圆的位置关系",
+            "difficulty_score": 69.565217
+        },
+        {
+            "grade": "九年级上册",
+            "id": "弧长和扇形面积",
+            "difficulty_score": 69.565217
+        },
+        {
+            "grade": "九年级上册",
+            "id": "图形的旋转",
+            "difficulty_score": 69.565217
+        },
+        {
+            "grade": "九年级上册",
+            "id": "中心对称",
+            "difficulty_score": 69.565217
+        },
+        {
+            "grade": "九年级下册",
+            "id": "圆周角定理、垂径定理",
+            "difficulty_score": 73.913043
+        },
+        {
+            "grade": "九年级下册",
+            "id": "内接圆、外接圆、圆内接四边形",
+            "difficulty_score": 73.913043
+        },
+        {
+            "grade": "九年级下册",
+            "id": "三角形的内心、外心",
+            "difficulty_score": 73.913043
+        },
+        {
+            "grade": "九年级下册",
+            "id": "直线和圆的相交、相离、相切",
+            "difficulty_score": 73.913043
+        },
+        {
+            "id": "概率与统计"
+        },
+        {
+            "id": "统计"
+        },
+        {
+            "grade": "三年级下册",
+            "id": "复式统计表的概念和基础运用",
+            "difficulty_score": 21.73913
+        },
+        {
+            "grade": "四年级上册",
+            "id": "条形统计图的绘制",
+            "difficulty_score": 26.086957
+        },
+        {
+            "grade": "四年级下册",
+            "id": "求平均数",
+            "difficulty_score": 30.434783
+        },
+        {
+            "grade": "四年级下册",
+            "id": "条形统计图",
+            "difficulty_score": 30.434783
+        },
+        {
+            "id": "概率"
+        },
+        {
+            "grade": "五年级上册",
+            "id": "可能性（确定性和不确定性、可能性的大小）",
+            "difficulty_score": 34.782609
+        },
+        {
+            "grade": "五年级下册",
+            "id": "折线统计图",
+            "difficulty_score": 39.130435
+        },
+        {
+            "grade": "六年级上册",
+            "id": "扇形统计图",
+            "difficulty_score": 43.478261
+        },
+        {
+            "grade": "六年级上册",
+            "id": "选择合适的统计图",
+            "difficulty_score": 43.478261
+        },
+        {
+            "grade": "八年级下册",
+            "id": "中位数和众数和平均数",
+            "difficulty_score": 65.217391
+        },
+        {
+            "grade": "九年级上册",
+            "id": "随机事件与概率",
+            "difficulty_score": 69.565217
+        },
+        {
+            "grade": "九年级上册",
+            "id": "例举法求概率、频率估计求概率",
+            "difficulty_score": 69.565217
+        },
+        {
+            "id": "算数"
+        },
+        {
+            "id": "基础运算"
+        },
+        {
+            "grade": "一年级上册",
+            "id": "二十以内的数的认识",
+            "difficulty_score": 0.0
+        },
+        {
+            "grade": "一年级上册",
+            "id": "二十以内进位加法、不退位减法",
+            "difficulty_score": 0.0
+        },
+        {
+            "grade": "一年级下册",
+            "id": "一百以内数的认识和不进位不退位的加减法",
+            "difficulty_score": 4.347826
+        },
+        {
+            "grade": "一年级下册",
+            "id": "人民币的基本运算",
+            "difficulty_score": 4.347826
+        },
+        {
+            "grade": "二年级上册",
+            "id": "一百以内数涉及进位或退位的加减法",
+            "difficulty_score": 8.695652
+        },
+        {
+            "grade": "二年级上册",
+            "id": "表内乘法",
+            "difficulty_score": 8.695652
+        },
+        {
+            "grade": "二年级下册",
+            "id": "表内除法（包括有余数的除法）",
+            "difficulty_score": 13.043478
+        },
+        {
+            "grade": "二年级下册",
+            "id": "混合运算",
+            "difficulty_score": 13.043478
+        },
+        {
+            "grade": "二年级下册",
+            "id": "万以内数的认识",
+            "difficulty_score": 13.043478
+        },
+        {
+            "grade": "二年级下册",
+            "id": "克和千克的认识",
+            "difficulty_score": 13.043478
+        },
+        {
+            "grade": "三年级上册",
+            "id": "万以内的加减法",
+            "difficulty_score": 17.391304
+        },
+        {
+            "grade": "三年级上册",
+            "id": "时、分、秒的计算",
+            "difficulty_score": 17.391304
+        },
+        {
+            "grade": "三年级上册",
+            "id": "倍的认识和计算",
+            "difficulty_score": 17.391304
+        },
+        {
+            "grade": "三年级上册",
+            "id": "多位数乘一位数",
+            "difficulty_score": 17.391304
+        },
+        {
+            "grade": "三年级上册",
+            "id": "分数的认识和同分母分数的加减法",
+            "difficulty_score": 17.391304
+        },
+        {
+            "grade": "三年级上册",
+            "id": "平方与立方",
+            "difficulty_score": 17.391304
+        },
+        {
+            "grade": "三年级下册",
+            "id": "除数是一位数的除法",
+            "difficulty_score": 21.73913
+        },
+        {
+            "grade": "三年级下册",
+            "id": "两位数乘两位数",
+            "difficulty_score": 21.73913
+        },
+        {
+            "grade": "三年级下册",
+            "id": "小数的认识",
+            "difficulty_score": 21.73913
+        },
+        {
+            "grade": "四年级上册",
+            "id": "大数的认识和读法",
+            "difficulty_score": 26.086957
+        },
+        {
+            "grade": "四年级上册",
+            "id": "三位数乘两位数",
+            "difficulty_score": 26.086957
+        },
+        {
+            "grade": "四年级上册",
+            "id": "除数是两位数的除法",
+            "difficulty_score": 26.086957
+        },
+        {
+            "grade": "四年级下册",
+            "id": "四则运算以及运算定律",
+            "difficulty_score": 30.434783
+        },
+        {
+            "grade": "四年级下册",
+            "id": "小数的加减法",
+            "difficulty_score": 30.434783
+        },
+        {
+            "grade": "四年级下册",
+            "id": "大数乘法",
+            "difficulty_score": 30.434783
+        },
+        {
+            "grade": "五年级上册",
+            "id": "小数乘除法",
+            "difficulty_score": 34.782609
+        },
+        {
+            "grade": "五年级下册",
+            "id": "分数的加减法",
+            "difficulty_score": 39.130435
+        },
+        {
+            "grade": "六年级上册",
+            "id": "分数的乘除法",
+            "difficulty_score": 43.478261
+        },
+        {
+            "grade": "六年级下册",
+            "id": "折扣、成数、税率、利率的认识与计算",
+            "difficulty_score": 47.826087
+        },
+        {
+            "grade": "七年级上册",
+            "id": "有理数的加减乘除乘方运算以及混合运算顺序",
+            "difficulty_score": 52.173913
+        },
+        {
+            "grade": "七年级上册",
+            "id": "科学计数法",
+            "difficulty_score": 52.173913
+        },
+        {
+            "grade": "七年级上册",
+            "id": "运算精度的控制",
+            "difficulty_score": 52.173913
+        },
+        {
+            "id": "数论"
+        },
+        {
+            "id": "合数与质数"
+        },
+        {
+            "grade": "五年级下册",
+            "id": "合数与质数的概念",
+            "difficulty_score": 39.130435
+        },
+        {
+            "id": "因数与倍数"
+        },
+        {
+            "grade": "五年级下册",
+            "id": "因数与倍数的概念",
+            "difficulty_score": 39.130435
+        },
+        {
+            "grade": "五年级下册",
+            "id": "2、3、5的倍数特征",
+            "difficulty_score": 39.130435
+        },
+        {
+            "id": "分数"
+        },
+        {
+            "grade": "五年级下册",
+            "id": "真分数、带分数、假分数等基本性质",
+            "difficulty_score": 39.130435
+        },
+        {
+            "grade": "五年级下册",
+            "id": "约分、通分、分数和小数互化",
+            "difficulty_score": 39.130435
+        },
+        {
+            "grade": "五年级下册",
+            "id": "分数的大小比较和化简",
+            "difficulty_score": 39.130435
+        },
+        {
+            "id": "互质和最大公因数"
+        },
+        {
+            "grade": "五年级下册",
+            "id": "互质的判断方法",
+            "difficulty_score": 39.130435
+        },
+        {
+            "grade": "五年级下册",
+            "id": "求最大公因数、提取最大公因数",
+            "difficulty_score": 39.130435
+        },
+        {
+            "id": "百分数"
+        },
+        {
+            "grade": "六年级上册",
+            "id": "百分数的认识",
+            "difficulty_score": 43.478261
+        },
+        {
+            "grade": "六年级上册",
+            "id": "百分数与分数、小数的互化",
+            "difficulty_score": 43.478261
+        },
+        {
+            "id": "负数"
+        },
+        {
+            "grade": "六年级下册",
+            "id": "负数的认识与计算、两数大小的比较",
+            "difficulty_score": 47.826087
+        },
+        {
+            "id": "有理数、相反数、绝对值"
+        },
+        {
+            "grade": "七年级上册",
+            "id": "有理数、相反数、绝对值的概念",
+            "difficulty_score": 52.173913
+        },
+        {
+            "id": "数理逻辑"
+        },
+        {
+            "id": "找规律"
+        },
+        {
+            "grade": "一年级下册",
+            "id": "通过数字变化、颜色、形状找规律",
+            "difficulty_score": 4.347826
+        },
+        {
+            "id": "互逆命题"
+        },
+        {
+            "grade": "八年级下册",
+            "id": "互逆命题的概与判断",
+            "difficulty_score": 65.217391
+        },
+        {
+            "id": "集合"
+        },
+        {
+            "grade": "高一上册",
+            "id": "交、并、补集混合运算",
+            "difficulty_score": 78.26087
+        },
+        {
+            "grade": "高一上册",
+            "id": "对数的运算",
+            "difficulty_score": 78.26087
+        },
+        {
+            "grade": "高一上册",
+            "id": "利用诱导公式化简",
+            "difficulty_score": 78.26087
+        },
+        {
+            "grade": "高一上册",
+            "id": "充要条件的概念",
+            "difficulty_score": 78.26087
+        },
+        {
+            "grade": "高一上册",
+            "id": "全称量词与存在量词的概念",
+            "difficulty_score": 78.26087
+        },
+        {
+            "grade": "高一上册",
+            "id": "逻辑联结词的概念",
+            "difficulty_score": 78.26087
+        },
+        {
+            "grade": "高一上册",
+            "id": "函数周期性与奇偶性",
+            "difficulty_score": 78.26087
+        },
+        {
+            "grade": "高一上册",
+            "id": "高斯函数",
+            "difficulty_score": 78.26087
+        },
+        {
+            "grade": "高一上册",
+            "id": "求复合函数的值域",
+            "difficulty_score": 78.26087
+        },
+        {
+            "grade": "高一上册",
+            "id": "直接求函数的极值（不含参）",
+            "difficulty_score": 78.26087
+        },
+        {
+            "grade": "高一上册",
+            "id": "求零点和或积的范围",
+            "difficulty_score": 78.26087
+        },
+        {
+            "grade": "高一上册",
+            "id": "对数函数",
+            "difficulty_score": 78.26087
+        },
+        {
+            "grade": "高一上册",
+            "id": "利用函数单调性解不等式",
+            "difficulty_score": 78.26087
+        },
+        {
+            "grade": "高一上册",
+            "id": "分段函数模型",
+            "difficulty_score": 78.26087
+        },
+        {
+            "id": "向量"
+        },
+        {
+            "grade": "高一下册",
+            "id": "向量的夹角",
+            "difficulty_score": 82.608696
+        },
+        {
+            "grade": "高一下册",
+            "id": "向量的数量积",
+            "difficulty_score": 82.608696
+        },
+        {
+            "grade": "高一下册",
+            "id": "正弦定理、正余弦定理、三角形面积公式",
+            "difficulty_score": 82.608696
+        },
+        {
+            "id": "复数"
+        },
+        {
+            "grade": "高一下册",
+            "id": "复数的基本概念；复数的乘法和除法；复数的四则运算综合",
+            "difficulty_score": 82.608696
+        },
+        {
+            "id": "立体几何"
+        },
+        {
+            "grade": "高一下册",
+            "id": "平面和平面垂直的性质；直线和平面垂直的性质；面面平行的证明问题；平面和平面平行的判定；直线和平面垂直的性质；线线\n垂直的证明问题",
+            "difficulty_score": 82.608696
+        },
+        {
+            "grade": "高一下册",
+            "id": "空间几何体的内切球、外接\n球问题",
+            "difficulty_score": 82.608696
+        },
+        {
+            "grade": "高一下册",
+            "id": "组合体求体积、表面积问题；空间几何体的体积",
+            "difficulty_score": 82.608696
+        },
+        {
+            "grade": "高一下册",
+            "id": "极差、方差与标准差",
+            "difficulty_score": 82.608696
+        },
+        {
+            "grade": "高一下册",
+            "id": "古典概型",
+            "difficulty_score": 82.608696
+        },
+        {
+            "grade": "高一下册",
+            "id": "互斥事件与对立事件；互斥事件与对立事件的概念辨析",
+            "difficulty_score": 82.608696
+        },
+        {
+            "grade": "高二上册",
+            "id": "空间向量",
+            "difficulty_score": 86.956522
+        },
+        {
+            "grade": "高二上册",
+            "id": "圆的弦长与标准方程",
+            "difficulty_score": 86.956522
+        },
+        {
+            "grade": "高二上册",
+            "id": "坐标系中直线和圆的位置关系与直线的方程求解",
+            "difficulty_score": 86.956522
+        },
+        {
+            "id": "椭圆与圆锥曲线"
+        },
+        {
+            "grade": "高二上册",
+            "id": "椭圆的离心率；椭圆的基本量求解",
+            "difficulty_score": 86.956522
+        },
+        {
+            "grade": "高二上册",
+            "id": "双曲线的离心率；双曲线的基本量",
+            "difficulty_score": 86.956522
+        },
+        {
+            "grade": "高二上册",
+            "id": "直线和双曲线的位置关系；双曲线的标准方程；弦长求解问题",
+            "difficulty_score": 86.956522
+        },
+        {
+            "grade": "高二上册",
+            "id": "联立方程韦达定理",
+            "difficulty_score": 86.956522
+        },
+        {
+            "grade": "高二下册",
+            "id": "正态分布",
+            "difficulty_score": 91.304348
+        },
+        {
+            "grade": "高二下册",
+            "id": "研究含参函数的极值与最值问题",
+            "difficulty_score": 91.304348
+        },
+        {
+            "grade": "高二下册",
+            "id": "条件概率与事件的独立性",
+            "difficulty_score": 91.304348
+        },
+        {
+            "id": "离散数学"
+        },
+        {
+            "id": "组合数学"
+        },
+        {
+            "grade": "高二下册",
+            "id": "排列",
+            "difficulty_score": 91.304348
+        },
+        {
+            "grade": "高二下册",
+            "id": "离散型随机变量及其分布列",
+            "difficulty_score": 91.304348
+        },
+        {
+            "id": "逻辑、量词"
+        },
+        {
+            "grade": "八年级下册",
+            "id": "互逆命题的概念与判断",
+            "difficulty_score": 65.217391
+        },
+        {
+            "grade": "高三上册",
+            "id": "海伦公式",
+            "difficulty_score": 95.652174
+        },
+        {
+            "grade": "高三上册",
+            "id": "三角形的其他公式",
+            "difficulty_score": 95.652174
+        },
+        {
+            "id": "圆锥曲线"
+        },
+        {
+            "grade": "高三下册",
+            "id": "点差法、联立法",
+            "difficulty_score": 100.0
+        },
+        {
+            "grade": "高三下册",
+            "id": "定值问题、弦长问题",
+            "difficulty_score": 100.0
+        },
+        {
+            "id": "微积分-导数"
+        },
+        {
+            "id": "导数与函数极值"
+        },
+        {
+            "grade": "高二下册",
+            "id": "简单求导",
+            "difficulty_score": 91.304348
+        },
+        {
+            "grade": "高二下册",
+            "id": "导数与函数增减性",
+            "difficulty_score": 91.304348
+        },
+        {
+            "id": "统计与概率"
+        },
+        {
+            "grade": "高三下册",
+            "id": "其他更复杂问题",
+            "difficulty_score": 100.0
+        }
+    ],
+    "links": [
+        {
+            "source": "root",
+            "target": "代数"
+        },
+        {
+            "source": "root",
+            "target": "几何"
+        },
+        {
+            "source": "root",
+            "target": "概率与统计"
+        },
+        {
+            "source": "root",
+            "target": "算数"
+        },
+        {
+            "source": "root",
+            "target": "数论"
+        },
+        {
+            "source": "root",
+            "target": "数理逻辑"
+        },
+        {
+            "source": "root",
+            "target": "离散数学"
+        },
+        {
+            "source": "root",
+            "target": "微积分-导数"
+        },
+        {
+            "source": "root",
+            "target": "统计与概率"
+        },
+        {
+            "source": "代数",
+            "target": "方程"
+        },
+        {
+            "source": "代数",
+            "target": "比和比例"
+        },
+        {
+            "source": "代数",
+            "target": "整式"
+        },
+        {
+            "source": "代数",
+            "target": "分式"
+        },
+        {
+            "source": "代数",
+            "target": "根式"
+        },
+        {
+            "source": "代数",
+            "target": "函数"
+        },
+        {
+            "source": "代数",
+            "target": "集合"
+        },
+        {
+            "source": "代数",
+            "target": "向量"
+        },
+        {
+            "source": "代数",
+            "target": "圆锥曲线"
+        },
+        {
+            "source": "方程",
+            "target": "一元一次方程"
+        },
+        {
+            "source": "方程",
+            "target": "二元一次方程组及其求解"
+        },
+        {
+            "source": "方程",
+            "target": "不等式与一元一次不等式组"
+        },
+        {
+            "source": "方程",
+            "target": "三元一次方程组的解法"
+        },
+        {
+            "source": "方程",
+            "target": "一元二次方程求解"
+        },
+        {
+            "source": "方程",
+            "target": "联立方程韦达定理"
+        },
+        {
+            "source": "比和比例",
+            "target": "比的意义"
+        },
+        {
+            "source": "比和比例",
+            "target": "比的基本性质"
+        },
+        {
+            "source": "比和比例",
+            "target": "按比例分配问题"
+        },
+        {
+            "source": "比和比例",
+            "target": "正比例与反比例"
+        },
+        {
+            "source": "比和比例",
+            "target": "比例的应用（比例尺、图形的放大缩小等）"
+        },
+        {
+            "source": "整式",
+            "target": "单项式的概念、系数、次数"
+        },
+        {
+            "source": "整式",
+            "target": "多项式的概念、项、次数"
+        },
+        {
+            "source": "整式",
+            "target": "整式的概念、书写"
+        },
+        {
+            "source": "整式",
+            "target": "同类项与合并同类项、去括号"
+        },
+        {
+            "source": "整式",
+            "target": "平方与立方的基础概念"
+        },
+        {
+            "source": "整式",
+            "target": "整式的乘除与分解因式"
+        },
+        {
+            "source": "分式",
+            "target": "概念与运算"
+        },
+        {
+            "source": "分式",
+            "target": "约分、通分、最简分式"
+        },
+        {
+            "source": "分式",
+            "target": "分式方程及其求解"
+        },
+        {
+            "source": "根式",
+            "target": "二次根式及其运算"
+        },
+        {
+            "source": "函数",
+            "target": "一次函数及其图像"
+        },
+        {
+            "source": "函数",
+            "target": "正比例函数"
+        },
+        {
+            "source": "函数",
+            "target": "一次函数与正比例函数的关系"
+        },
+        {
+            "source": "函数",
+            "target": "一元二次函数及其图像"
+        },
+        {
+            "source": "函数",
+            "target": "一元二次函数的图像性质"
+        },
+        {
+            "source": "函数",
+            "target": "三角函数"
+        },
+        {
+            "source": "函数",
+            "target": "抛物线、二次函数及其对称轴、开口方向的求解"
+        },
+        {
+            "source": "函数",
+            "target": "二次函数的增减性"
+        },
+        {
+            "source": "函数",
+            "target": "函数周期性与奇偶性"
+        },
+        {
+            "source": "函数",
+            "target": "高斯函数"
+        },
+        {
+            "source": "函数",
+            "target": "求复合函数的值域"
+        },
+        {
+            "source": "函数",
+            "target": "直接求函数的极值（不含参）"
+        },
+        {
+            "source": "函数",
+            "target": "求零点和或积的范围"
+        },
+        {
+            "source": "函数",
+            "target": "对数函数"
+        },
+        {
+            "source": "函数",
+            "target": "利用函数单调性解不等式"
+        },
+        {
+            "source": "函数",
+            "target": "分段函数模型"
+        },
+        {
+            "source": "函数",
+            "target": "利用诱导公式化简"
+        },
+        {
+            "source": "函数",
+            "target": "研究含参函数的极值与最值问题"
+        },
+        {
+            "source": "几何",
+            "target": "基本图形的认识"
+        },
+        {
+            "source": "几何",
+            "target": "角"
+        },
+        {
+            "source": "几何",
+            "target": "图形的位置关系"
+        },
+        {
+            "source": "几何",
+            "target": "周长和面积"
+        },
+        {
+            "source": "几何",
+            "target": "数轴与坐标系"
+        },
+        {
+            "source": "几何",
+            "target": "三角形"
+        },
+        {
+            "source": "几何",
+            "target": "多边形"
+        },
+        {
+            "source": "几何",
+            "target": "圆"
+        },
+        {
+            "source": "几何",
+            "target": "立体几何"
+        },
+        {
+            "source": "几何",
+            "target": "向量"
+        },
+        {
+            "source": "几何",
+            "target": "椭圆与圆锥曲线"
+        },
+        {
+            "source": "几何",
+            "target": "圆锥曲线"
+        },
+        {
+            "source": "基本图形的认识",
+            "target": "区分长方体、正方体、圆柱体、球"
+        },
+        {
+            "source": "基本图形的认识",
+            "target": "图形的拼接"
+        },
+        {
+            "source": "基本图形的认识",
+            "target": "认识钟面时间"
+        },
+        {
+            "source": "基本图形的认识",
+            "target": "平行于垂直"
+        },
+        {
+            "source": "基本图形的认识",
+            "target": "三角形的特性、分类、内角和"
+        },
+        {
+            "source": "基本图形的认识",
+            "target": "长方体和正方体的认识以及表面积体积计算"
+        },
+        {
+            "source": "基本图形的认识",
+            "target": "圆的认识（圆心、半径、直径）"
+        },
+        {
+            "source": "基本图形的认识",
+            "target": "圆柱与圆锥的认识（特征、切割）"
+        },
+        {
+            "source": "基本图形的认识",
+            "target": "直线，射线与线段的区别与联系"
+        },
+        {
+            "source": "基本图形的认识",
+            "target": "角互余互补的有关计算、方位角"
+        },
+        {
+            "source": "基本图形的认识",
+            "target": "立体图形展开平面图"
+        },
+        {
+            "source": "基本图形的认识",
+            "target": "中心对称"
+        },
+        {
+            "source": "角",
+            "target": "角的初步认识"
+        },
+        {
+            "source": "角",
+            "target": "角的度量和分类（锐角、钝角等）"
+        },
+        {
+            "source": "角",
+            "target": "多边形及其内角和、外角和"
+        },
+        {
+            "source": "角",
+            "target": "三角形的外角及其性质"
+        },
+        {
+            "source": "图形的位置关系",
+            "target": "轴对称、平移、旋转的概念与认识"
+        },
+        {
+            "source": "图形的位置关系",
+            "target": "四边形和梯形"
+        },
+        {
+            "source": "图形的位置关系",
+            "target": "轴对称、平移、旋转的判断与利用"
+        },
+        {
+            "source": "图形的位置关系",
+            "target": "相交线与平行线"
+        },
+        {
+            "source": "图形的位置关系",
+            "target": "点到直线的距离"
+        },
+        {
+            "source": "图形的位置关系",
+            "target": "同位角、内错角、同旁内角"
+        },
+        {
+            "source": "图形的位置关系",
+            "target": "图形的旋转"
+        },
+        {
+            "source": "图形的位置关系",
+            "target": "中心对称"
+        },
+        {
+            "source": "图形的位置关系",
+            "target": "直线和圆的相交、相离、相切"
+        },
+        {
+            "source": "周长和面积",
+            "target": "正方形和长方形的周长计算"
+        },
+        {
+            "source": "周长和面积",
+            "target": "正方形和长方形的面积计算"
+        },
+        {
+            "source": "周长和面积",
+            "target": "面积单位之间的进率"
+        },
+        {
+            "source": "周长和面积",
+            "target": "常用的面积单位"
+        },
+        {
+            "source": "周长和面积",
+            "target": "公顷和平方千米的认识和转换"
+        },
+        {
+            "source": "周长和面积",
+            "target": "多边形面积（平行四边形、三角形、梯形、组合图形）"
+        },
+        {
+            "source": "周长和面积",
+            "target": "圆的周长与面积"
+        },
+        {
+            "source": "周长和面积",
+            "target": "圆环的面积"
+        },
+        {
+            "source": "周长和面积",
+            "target": "扇形的认识与面积"
+        },
+        {
+            "source": "周长和面积",
+            "target": "圆柱与圆锥的表面积、体积计算"
+        },
+        {
+            "source": "周长和面积",
+            "target": "三角形三边关系、边长"
+        },
+        {
+            "source": "周长和面积",
+            "target": "平行四边形与三角形结合的较为复杂的运算"
+        },
+        {
+            "source": "数轴与坐标系",
+            "target": "数轴的认识"
+        },
+        {
+            "source": "数轴与坐标系",
+            "target": "平面直角坐标系（象限、点到坐标轴的距离、对称点）"
+        },
+        {
+            "source": "数轴与坐标系",
+            "target": "坐标系内求面积"
+        },
+        {
+            "source": "数轴与坐标系",
+            "target": "中点坐标公式"
+        },
+        {
+            "source": "三角形",
+            "target": "三角形的特性、分类、内角和"
+        },
+        {
+            "source": "三角形",
+            "target": "多边形面积（平行四边形、三角形、梯形、组合图形）"
+        },
+        {
+            "source": "三角形",
+            "target": "三角形三边关系、边长"
+        },
+        {
+            "source": "三角形",
+            "target": "三角形的外角及其性质"
+        },
+        {
+            "source": "三角形",
+            "target": "三角形的全等与相似"
+        },
+        {
+            "source": "三角形",
+            "target": "股定理与勾股定理逆定理"
+        },
+        {
+            "source": "三角形",
+            "target": "三角形的内心、外心"
+        },
+        {
+            "source": "三角形",
+            "target": "正弦定理、正余弦定理、三角形面积公式"
+        },
+        {
+            "source": "三角形",
+            "target": "海伦公式"
+        },
+        {
+            "source": "三角形",
+            "target": "三角形的其他公式"
+        },
+        {
+            "source": "多边形",
+            "target": "多边形面积（平行四边形、三角形、梯形、组合图形）"
+        },
+        {
+            "source": "多边形",
+            "target": "多边形的内角、外角"
+        },
+        {
+            "source": "圆",
+            "target": "区分长方体、正方体、圆柱体、球"
+        },
+        {
+            "source": "圆",
+            "target": "圆的认识（圆心、半径、直径）"
+        },
+        {
+            "source": "圆",
+            "target": "圆的周长与面积"
+        },
+        {
+            "source": "圆",
+            "target": "圆环的面积"
+        },
+        {
+            "source": "圆",
+            "target": "扇形的认识与面积"
+        },
+        {
+            "source": "圆",
+            "target": "圆柱与圆锥的认识（特征、切割）"
+        },
+        {
+            "source": "圆",
+            "target": "圆柱与圆锥的表面积、体积计算"
+        },
+        {
+            "source": "圆",
+            "target": "正多边形和圆"
+        },
+        {
+            "source": "圆",
+            "target": "圆心角、弧"
+        },
+        {
+            "source": "圆",
+            "target": "点、圆、直线和圆的位置关系"
+        },
+        {
+            "source": "圆",
+            "target": "弧长和扇形面积"
+        },
+        {
+            "source": "圆",
+            "target": "圆周角定理、垂径定理"
+        },
+        {
+            "source": "圆",
+            "target": "内接圆、外接圆、圆内接四边形"
+        },
+        {
+            "source": "圆",
+            "target": "圆的弦长与标准方程"
+        },
+        {
+            "source": "圆",
+            "target": "坐标系中直线和圆的位置关系与直线的方程求解"
+        },
+        {
+            "source": "概率与统计",
+            "target": "统计"
+        },
+        {
+            "source": "概率与统计",
+            "target": "概率"
+        },
+        {
+            "source": "统计",
+            "target": "复式统计表的概念和基础运用"
+        },
+        {
+            "source": "统计",
+            "target": "条形统计图的绘制"
+        },
+        {
+            "source": "统计",
+            "target": "求平均数"
+        },
+        {
+            "source": "统计",
+            "target": "条形统计图"
+        },
+        {
+            "source": "统计",
+            "target": "折线统计图"
+        },
+        {
+            "source": "统计",
+            "target": "扇形统计图"
+        },
+        {
+            "source": "统计",
+            "target": "选择合适的统计图"
+        },
+        {
+            "source": "统计",
+            "target": "中位数和众数和平均数"
+        },
+        {
+            "source": "统计",
+            "target": "极差、方差与标准差"
+        },
+        {
+            "source": "统计",
+            "target": "正态分布"
+        },
+        {
+            "source": "统计",
+            "target": "其他更复杂问题"
+        },
+        {
+            "source": "概率",
+            "target": "可能性（确定性和不确定性、可能性的大小）"
+        },
+        {
+            "source": "概率",
+            "target": "随机事件与概率"
+        },
+        {
+            "source": "概率",
+            "target": "例举法求概率、频率估计求概率"
+        },
+        {
+            "source": "概率",
+            "target": "古典概型"
+        },
+        {
+            "source": "概率",
+            "target": "互斥事件与对立事件；互斥事件与对立事件的概念辨析"
+        },
+        {
+            "source": "概率",
+            "target": "条件概率与事件的独立性"
+        },
+        {
+            "source": "概率",
+            "target": "其他更复杂问题"
+        },
+        {
+            "source": "算数",
+            "target": "基础运算"
+        },
+        {
+            "source": "基础运算",
+            "target": "二十以内的数的认识"
+        },
+        {
+            "source": "基础运算",
+            "target": "二十以内进位加法、不退位减法"
+        },
+        {
+            "source": "基础运算",
+            "target": "一百以内数的认识和不进位不退位的加减法"
+        },
+        {
+            "source": "基础运算",
+            "target": "人民币的基本运算"
+        },
+        {
+            "source": "基础运算",
+            "target": "一百以内数涉及进位或退位的加减法"
+        },
+        {
+            "source": "基础运算",
+            "target": "表内乘法"
+        },
+        {
+            "source": "基础运算",
+            "target": "表内除法（包括有余数的除法）"
+        },
+        {
+            "source": "基础运算",
+            "target": "混合运算"
+        },
+        {
+            "source": "基础运算",
+            "target": "万以内数的认识"
+        },
+        {
+            "source": "基础运算",
+            "target": "克和千克的认识"
+        },
+        {
+            "source": "基础运算",
+            "target": "万以内的加减法"
+        },
+        {
+            "source": "基础运算",
+            "target": "时、分、秒的计算"
+        },
+        {
+            "source": "基础运算",
+            "target": "倍的认识和计算"
+        },
+        {
+            "source": "基础运算",
+            "target": "多位数乘一位数"
+        },
+        {
+            "source": "基础运算",
+            "target": "分数的认识和同分母分数的加减法"
+        },
+        {
+            "source": "基础运算",
+            "target": "平方与立方"
+        },
+        {
+            "source": "基础运算",
+            "target": "除数是一位数的除法"
+        },
+        {
+            "source": "基础运算",
+            "target": "两位数乘两位数"
+        },
+        {
+            "source": "基础运算",
+            "target": "小数的认识"
+        },
+        {
+            "source": "基础运算",
+            "target": "大数的认识和读法"
+        },
+        {
+            "source": "基础运算",
+            "target": "三位数乘两位数"
+        },
+        {
+            "source": "基础运算",
+            "target": "除数是两位数的除法"
+        },
+        {
+            "source": "基础运算",
+            "target": "四则运算以及运算定律"
+        },
+        {
+            "source": "基础运算",
+            "target": "小数的加减法"
+        },
+        {
+            "source": "基础运算",
+            "target": "大数乘法"
+        },
+        {
+            "source": "基础运算",
+            "target": "小数乘除法"
+        },
+        {
+            "source": "基础运算",
+            "target": "分数的加减法"
+        },
+        {
+            "source": "基础运算",
+            "target": "分数的乘除法"
+        },
+        {
+            "source": "基础运算",
+            "target": "折扣、成数、税率、利率的认识与计算"
+        },
+        {
+            "source": "基础运算",
+            "target": "有理数的加减乘除乘方运算以及混合运算顺序"
+        },
+        {
+            "source": "基础运算",
+            "target": "科学计数法"
+        },
+        {
+            "source": "基础运算",
+            "target": "运算精度的控制"
+        },
+        {
+            "source": "数论",
+            "target": "合数与质数"
+        },
+        {
+            "source": "数论",
+            "target": "因数与倍数"
+        },
+        {
+            "source": "数论",
+            "target": "分数"
+        },
+        {
+            "source": "数论",
+            "target": "互质和最大公因数"
+        },
+        {
+            "source": "数论",
+            "target": "百分数"
+        },
+        {
+            "source": "数论",
+            "target": "负数"
+        },
+        {
+            "source": "数论",
+            "target": "有理数、相反数、绝对值"
+        },
+        {
+            "source": "数论",
+            "target": "集合"
+        },
+        {
+            "source": "数论",
+            "target": "复数"
+        },
+        {
+            "source": "合数与质数",
+            "target": "合数与质数的概念"
+        },
+        {
+            "source": "因数与倍数",
+            "target": "因数与倍数的概念"
+        },
+        {
+            "source": "因数与倍数",
+            "target": "2、3、5的倍数特征"
+        },
+        {
+            "source": "分数",
+            "target": "真分数、带分数、假分数等基本性质"
+        },
+        {
+            "source": "分数",
+            "target": "约分、通分、分数和小数互化"
+        },
+        {
+            "source": "分数",
+            "target": "分数的大小比较和化简"
+        },
+        {
+            "source": "互质和最大公因数",
+            "target": "互质的判断方法"
+        },
+        {
+            "source": "互质和最大公因数",
+            "target": "求最大公因数、提取最大公因数"
+        },
+        {
+            "source": "百分数",
+            "target": "百分数的认识"
+        },
+        {
+            "source": "百分数",
+            "target": "百分数与分数、小数的互化"
+        },
+        {
+            "source": "负数",
+            "target": "负数的认识与计算、两数大小的比较"
+        },
+        {
+            "source": "负数",
+            "target": "数轴的认识"
+        },
+        {
+            "source": "有理数、相反数、绝对值",
+            "target": "有理数、相反数、绝对值的概念"
+        },
+        {
+            "source": "数理逻辑",
+            "target": "找规律"
+        },
+        {
+            "source": "数理逻辑",
+            "target": "互逆命题"
+        },
+        {
+            "source": "数理逻辑",
+            "target": "集合"
+        },
+        {
+            "source": "找规律",
+            "target": "通过数字变化、颜色、形状找规律"
+        },
+        {
+            "source": "互逆命题",
+            "target": "互逆命题的概与判断"
+        },
+        {
+            "source": "集合",
+            "target": "交、并、补集混合运算"
+        },
+        {
+            "source": "集合",
+            "target": "对数的运算"
+        },
+        {
+            "source": "集合",
+            "target": "利用诱导公式化简"
+        },
+        {
+            "source": "集合",
+            "target": "充要条件的概念"
+        },
+        {
+            "source": "集合",
+            "target": "全称量词与存在量词的概念"
+        },
+        {
+            "source": "集合",
+            "target": "逻辑联结词的概念"
+        },
+        {
+            "source": "向量",
+            "target": "向量的夹角"
+        },
+        {
+            "source": "向量",
+            "target": "向量的数量积"
+        },
+        {
+            "source": "向量",
+            "target": "空间向量"
+        },
+        {
+            "source": "复数",
+            "target": "复数的基本概念；复数的乘法和除法；复数的四则运算综合"
+        },
+        {
+            "source": "立体几何",
+            "target": "平面和平面垂直的性质；直线和平面垂直的性质；面面平行的证明问题；平面和平面平行的判定；直线和平面垂直的性质；线线\n垂直的证明问题"
+        },
+        {
+            "source": "立体几何",
+            "target": "空间几何体的内切球、外接\n球问题"
+        },
+        {
+            "source": "立体几何",
+            "target": "组合体求体积、表面积问题；空间几何体的体积"
+        },
+        {
+            "source": "椭圆与圆锥曲线",
+            "target": "椭圆的离心率；椭圆的基本量求解"
+        },
+        {
+            "source": "椭圆与圆锥曲线",
+            "target": "双曲线的离心率；双曲线的基本量"
+        },
+        {
+            "source": "椭圆与圆锥曲线",
+            "target": "直线和双曲线的位置关系；双曲线的标准方程；弦长求解问题"
+        },
+        {
+            "source": "离散数学",
+            "target": "组合数学"
+        },
+        {
+            "source": "离散数学",
+            "target": "集合"
+        },
+        {
+            "source": "离散数学",
+            "target": "逻辑、量词"
+        },
+        {
+            "source": "组合数学",
+            "target": "排列"
+        },
+        {
+            "source": "组合数学",
+            "target": "离散型随机变量及其分布列"
+        },
+        {
+            "source": "逻辑、量词",
+            "target": "全称量词与存在量词的概念"
+        },
+        {
+            "source": "逻辑、量词",
+            "target": "充要条件的概念"
+        },
+        {
+            "source": "逻辑、量词",
+            "target": "逻辑联结词的概念"
+        },
+        {
+            "source": "逻辑、量词",
+            "target": "互逆命题的概念与判断"
+        },
+        {
+            "source": "逻辑、量词",
+            "target": "找规律"
+        },
+        {
+            "source": "圆锥曲线",
+            "target": "点差法、联立法"
+        },
+        {
+            "source": "圆锥曲线",
+            "target": "定值问题、弦长问题"
+        },
+        {
+            "source": "微积分-导数",
+            "target": "导数与函数极值"
+        },
+        {
+            "source": "导数与函数极值",
+            "target": "简单求导"
+        },
+        {
+            "source": "导数与函数极值",
+            "target": "导数与函数增减性"
+        },
+        {
+            "source": "导数与函数极值",
+            "target": "其他更复杂问题"
+        },
+        {
+            "source": "统计与概率",
+            "target": "概率"
+        },
+        {
+            "source": "统计与概率",
+            "target": "统计"
+        }
+    ]
+}

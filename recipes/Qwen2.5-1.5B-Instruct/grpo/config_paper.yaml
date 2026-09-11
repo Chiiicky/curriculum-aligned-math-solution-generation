@@ -1,0 +1,78 @@
+# Full paper configuration. This expects the released stratified curriculum
+# subset files described in dataset/README.md.
+
+model_name_or_path: Qwen/Qwen2.5-1.5B-Instruct
+model_revision: main
+torch_dtype: bfloat16
+attn_implementation: flash_attention_2
+
+dataset_name: dataset/curriculum_train.parquet
+eval_dataset_name: dataset/curriculum_validation.parquet
+dataset_prompt_column: problem
+eval_dataset_prompt_column: problem
+kg_path: src/open_r1/knowledge_base_graph57.json
+difficulty_reward_temperature: 10.0
+difficulty_gate_scorer_url: http://localhost:5001/score
+difficulty_evaluator_url: http://localhost:5000/generate
+difficulty_evaluator_temperature: 0.0
+difficulty_evaluator_max_tokens: 4096
+difficulty_cav_prompt_path: reproducibility_package/prompts/hkg_fallback_prompt.txt
+difficulty_gate_thresholds_path: reproducibility_package/verifier/ucdg_thresholds_weights.csv
+system_prompt: "You are a helpful AI Assistant that provides well-reasoned and detailed responses. You first think about the reasoning process as an internal monologue and then provide the user with the answer. Use simple, curriculum-appropriate mathematical knowledge whenever possible. Put the final answer in \\boxed{}. Respond in the following format: <think>\n...\n</think>\n<answer>\n...\n</answer>"
+
+bf16: true
+use_vllm: true
+beta: 0.04
+epsilon: 0.2
+temperature: 0.9
+top_k: 50
+top_p: 1.0
+num_generations: 4
+max_prompt_length: 512
+max_completion_length: 1024
+num_train_epochs: 3
+per_device_train_batch_size: 8
+per_device_eval_batch_size: 8
+gradient_accumulation_steps: 4
+gradient_checkpointing: true
+gradient_checkpointing_kwargs:
+  use_reentrant: false
+learning_rate: 2.0e-05
+lr_scheduler_type: cosine
+warmup_ratio: 0.01
+adam_beta1: 0.9
+adam_beta2: 0.999
+adam_epsilon: 1.0e-08
+max_grad_norm: 1.0
+seed: 42
+
+reward_funcs:
+- difficulty
+- format
+- tag_count
+- accuracy
+reward_weights:
+- 1.0
+- 1.0
+- 1.0
+- 2.0
+
+output_dir: data/Qwen2.5-1.5B-Open-R1-GRPO
+overwrite_output_dir: true
+hub_model_id: Qwen2.5-1.5B-Open-R1-GRPO
+hub_strategy: every_save
+push_to_hub: false
+report_to: []
+log_completions: true
+log_level: info
+logging_first_step: true
+logging_steps: 1
+logging_strategy: steps
+save_strategy: steps
+save_steps: 5
+save_total_limit: 3
+
+do_eval: true
+eval_strategy: steps
+eval_steps: 5
+eval_accumulation_steps: 1

@@ -1,0 +1,6 @@
+surface_form,decision_type,scope_qualified_nodes,disambiguation_cue
+"Equation/root",cross-stage split,"Linear-equation solving; quadratic-equation solving; function-root reasoning","Equation degree and whether roots are treated as function zeros."
+Rotation,cross-stage split,"Elementary recognition; transformation use; proof-oriented rotation","Whether rotation is named visually, used to transform a figure, or used as a proof operator."
+Area,cross-stage split,"Rectangle/polygon area; circle/sector area; trigonometric area formula","Formula family and surrounding geometric objects."
+Median,ambiguous form,"Statistics node; geometry construction node","Data-distribution context versus triangle/side/vertex context."
+Tangent,ambiguous form,"Circle tangent; trigonometric tangent; slope-related usage","Neighboring entities such as circle/radius, right triangle, or line slope."

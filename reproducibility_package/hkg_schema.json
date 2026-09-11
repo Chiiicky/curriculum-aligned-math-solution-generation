@@ -1,0 +1,61 @@
+{
+  "schema_name": "CAV-HKG curriculum node schema",
+  "version": "2026-06-01",
+  "node_fields": {
+    "node_id": {
+      "type": "string",
+      "description": "Stable identifier for each HKG node."
+    },
+    "domain": {
+      "type": "string",
+      "description": "High-level mathematical domain."
+    },
+    "subfield": {
+      "type": "string",
+      "description": "Subfield under the high-level domain."
+    },
+    "knowledge_point": {
+      "type": "string",
+      "description": "Canonical fine-grained knowledge-point name."
+    },
+    "stage_label": {
+      "type": "string",
+      "description": "First systematic grade-semester introduction stage."
+    },
+    "normalized_difficulty": {
+      "type": "number",
+      "range": [0, 100],
+      "description": "Curriculum-relative normalized score derived from stage_label."
+    },
+    "source_type": {
+      "type": "string",
+      "allowed_values": ["curriculum_standard", "textbook", "problem_collection", "manual_audit"],
+      "description": "Type of source used to verify stage assignment."
+    },
+    "source_reference": {
+      "type": "string",
+      "description": "Locator such as curriculum-standard item, textbook volume/chapter/section, or problem-collection identifier. Copyrighted passages are not included."
+    },
+    "synonyms": {
+      "type": "array[string]",
+      "description": "Textbook terms, formula names, notation variants, and paraphrases linked to this node."
+    },
+    "scope_note": {
+      "type": "string",
+      "description": "Boundary note for cross-stage split, ambiguous form, excluded advanced variant, or operator scope."
+    }
+  },
+  "edge_fields": {
+    "source": "string",
+    "target": "string",
+    "edge_type": {
+      "type": "string",
+      "allowed_values": ["domain_to_subfield", "subfield_to_knowledge_point"]
+    }
+  },
+  "notes": [
+    "Edges encode hierarchical membership only.",
+    "Prerequisite ordering is represented by stage_label and normalized_difficulty, not by separate prerequisite edges.",
+    "When the same surface form has different curriculum scopes, separate scope-qualified nodes are used."
+  ]
+}

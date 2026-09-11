@@ -1,0 +1,36 @@
+{
+  "name": "MiniVerifier-Gate",
+  "role": "four-head span-node admissibility scorer inside UC-DG",
+  "outputs": ["role", "node_identity", "stage", "evidence"],
+  "input_fields": [
+    "problem_text",
+    "reasoning_span",
+    "surface_mention",
+    "node_name",
+    "domain",
+    "subfield",
+    "stage_label",
+    "normalized_difficulty",
+    "synonyms",
+    "scope_note",
+    "retrieval_features",
+    "symbolic_gate_flags"
+  ],
+  "label_sources_described_in_manuscript": [
+    "adjudicated node-path labels for the human-audit subset",
+    "cached verifier traces for high-confidence train candidates"
+  ],
+  "training_pair_counts_reported_in_manuscript": {
+    "total": 18420,
+    "train": 13260,
+    "validation": 2580,
+    "held_out_audit": 2580
+  },
+  "loss": "sum of four binary cross-entropy losses with class-balanced weights and 1e-4 L2 regularization",
+  "calibration": "temperature scaling on validation split; ECE with 10 equal-frequency bins",
+  "threshold_policy": "validation F1 maximization under a minimum precision constraint; thresholds frozen before test evaluation",
+  "fallback_policy": "fallback evaluator receives only candidates in the uncertainty interval",
+  "runtime_contract": "the local scorer endpoint returns one role/node_identity/stage/evidence score vector for every reasoning-unit/node record",
+  "stage_gate_boundary": "stage evaluates source-backed operator-scope compatibility with the local evidence; it does not test candidate_stage <= target_stage",
+  "note": "This record documents the verifier implementation described in the manuscript. It is not a substitute for private or copyrighted raw training records."
+}

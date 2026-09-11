@@ -1,0 +1,8 @@
+screening_stage,threshold_or_criterion,flagged,removed,manual_audit_result
+Exact match,Normalized hash,1842,1842,Removed before stratified sampling
+Normalized text,"Canonicalized numbers, variables, units, and entities",3276,2914,Retained only when operation structure differed
+Text near-duplicate,n-gram Jaccard > 0.85,2438,1126,"1312 inspected and retained as non-collisions"
+Embedding near-duplicate,Cosine similarity > 0.92,1214,487,Paraphrases removed when solution template matched
+Math-template audit,Same operation sequence after symbol normalization,642,268,Same-template train/test collisions removed
+Benchmark overlap,GSM8K/MATH/SVAMP exact or normalized match,319,319,Excluded before benchmark evaluation
+Final split check,Train-test pair above text or embedding threshold,0,0,No above-threshold pair remained
